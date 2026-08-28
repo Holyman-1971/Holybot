@@ -1,0 +1,27 @@
+- INTERNAL ONLY
+
+CUSTOMER SUPPORT AGENT KNOWLEDGE BASE v1.4
+
+Updated: Q3 2026
+
+Section 1: Escalation Procedures
+
+When a user encounters file conversion errors in Holybot:
+
+  a) Verify if the file is encrypted or password-protected.
+
+  b) Ensure the .docx file is not open in Microsoft Word simultaneously.
+
+  c) Confirm that the target directory "/source_docs" is writeable.
+
+Section 2: Frequently Asked Questions
+
+Q: Why convert .docx to .txt before sending to Gemini or OpenAI?
+
+A: Word files contain extensive XML markup, style tags, and binary metadata that consume extra token budget without adding semantic value. Converting to clean UTF-8 plain text reduces token usage by 30% to 50%!
+
+Q: Can I edit the proposed snake_case filename in the table before clicking Process?
+
+A: Yes! The DataGridView supports inline editing. Double click any cell in the "Proposed New Filename" column to adjust the name prior to conversion.
+
+[BINARY_PADDING_FOOTER]

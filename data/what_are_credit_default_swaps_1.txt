@@ -1,0 +1,109 @@
+Do you know what Credit Default Swaps are?
+
+Have you read any attempts to explain what Credit Default Swaps are in the media?
+
+Are you aware that one of America's most successful financial investors, Warren Buffet, referred to Credit Default Swaps as "Weapons of Mass Financial Destruction", as far back as 2003?
+
+http://news.bbc.co.uk/1/hi/business/2817995.stm
+
+Perhaps you think that the current, wholly unprecedented Economic Crisis was caused by a few million feckless and irresponsible individuals who took out mortgages on homes that they could not possibly afford, precipitating the current mess.
+
+Think again.
+
+As I've been watching Global Stock Markets plunge these last few weeks, and as I've been watching the politicians of the World's leading nations - particularly the U.S. & U.K. - flail around trying to present some kind - [b]*ANY*[/b] kind - of solution to the mess we're in, I've been trying to explain to people how the stupendous financial catastrophe that the Global Economy now finds itself in.
+
+Since the so-called "Credit Crunch" hit in the summer of 2007, the general message that the media has tried to convey (on behalf of politicians and their Finance Sector Paymasters), is that the problems all started with irresponsible borrowers over-extending their selves with mortgages they couldn't possibly afford to service. But aside from the fact that if this were the case then responsibility lay as much with the lenders as with the borrowers, a few simple mathematical calculations regarding the total amount of money borrowed by "Sub-Prime" and "Alt-A" mortgage applicants (somewhere in the region of about $2 or $3 trillion in total), showed that such an explanation could never hold any water, for any length of time.
+
+Apart from anything else, rates of default on "Sub-Prime" and "Alt-A" mortgages never rose above about 20%, and in August 2008, default rates on "Prime" mortgages overtook those of the apparently feckless "lower orders".
+
+No, looming like an elephant-sized, metastasizing cancer cell over the whole picture, were the shenanigans of Wall Street's and London City's "Masters of the Universe" (as well as similar franchises in Bern, Reykjavik, Singapore, Honk Kong etc.), which had created, in the first decade of the 21st Century, a bewildering array of arcane and exotic derivative instruments: Warren Buffet's "Weapons of Mass Financial Destruction".
+
+The concepts of a Collateralised Debt Obligation (CDO) or Mortgage Backed Security (MBS) were sufficiently straightforward for many an uninformed observer to grasp:
+
+Loans are made by banks to individual customers, in the form of mortgages, credit-card, student and personal loan (etc.) borrowings . These loans were then parcelled up into (essentially) stocks, through the process of "Financialisation" or "Securitising". These stocks were then bought and sold, on the basis of the expected income from interest payments on the original loans.
+
+And predictably enough, such was the appetite for these new (unregulated) derivative instruments, that before too long, the values of the CDO's and MBS's far exceeded the actual value of the underlying, supporting loans.
+
+But who was going to let a dose of Reality interrupt a "Good Thing"?
+
+Such was the expected bounty from this new exotica, that many wannabe "Masters of the Universe" - those not quite at the top of the Wall Street Pyramid - borrowed money in order to buy up these CDO's.
+
+Now here's the kicker:
+
+The loans made to investors to buy up CDO's were [b]*THEMSELVES*[/b] parcelled up into CDO's!
+
+So the conditions were created whereby people were taking out loans in order to [b]*BUY THE SAME LOANS AS SECURITIES!*[/b].
+
+It was never as direct or clear-cut as that, but because of the opaque and unregulated nature of the Debt Derivatives Market, that was essentially what was happening. Particularly because many banks were using their own CDO holdings to leverage up their lending facilities.
+
+So what are Credit Default Swaps?
+
+Imagine being able to insure a car that you don't own or use.
+
+Imagine it's the car your neighbours will let their teenage son drive, when he gets his license in a few weeks - and you know the kid is a reckless brat.
+
+Now imagine that, by using financial derivatives called swaps, you can purchase as many insurance policies on this car as you can afford to pay premiums on.
+
+When the brat eventually trashes and scraps the car, you - and any friends you clued in on the deal - might collect millions, even billions of dollars. By contrast, your neighbours, who bought real insurance on a real vehicle, get only its trade value paid out by the real insurance company.
+
+This is basically what a Credit Default Swap is.
+
+The buyer of the CDS makes periodic payments (the "Premium Leg") to the seller, and in return receives a payoff (the "Protection" or "Default Leg"), if the underlying financial instrument defaults.
+
+The crucial difference between this and other, more usual forms of insurance, is that the buyer of the CDS [b]*DOES NOT NEED TO OWN*[/b] the underlying security (or other form of credit exposure). In fact, the buyer does not even have to suffer a loss from the default event.
+
+This explains the primary problem with Credit Default Swaps. Anybody can bet on anything, so the nominal value of the bets [b]*FAR*[/b] exceeds the actual worth of any property or loans involved.
+
+Still worse, no tangible or financial asset has to be in the picture. Wagers of any amount can be made, based only on opinions. You can bet on next Wednesday's weather, so long as there is a counter-party willing to take the other side.
+
+The possibilities are endless.
+
+To describe this construct as a "Shadow Economy" is not wholly accurate: a [b]*COMPLETELY OBSCURED*[/b] Economy would be a more fitting description. This because trades in CDS's are wholly unregulated; they take place as private contractual agreements, rather than on a public exchange. So there is no public record of all the swaps that have taken place.
+
+Furthermore, these contracts are frequently doubly hidden, recorded off the holders' main books, in so-called "Structured Investment Vehicles" (SIV's).
+
+All of that makes it impossible to be certain, but the Bank for International Settlements is a pretty good guesser, and they last pegged the total face value of all derivatives in existence at...
+
+...Wait for it...
+
+...
+
+[b]*$1.14 QUADRILLION*[/b]
+
+(That's $1,140 Trillion.)
+
+http://www.bis.org/press/p080522.htm
+
+That's more money than there is in all the World. More money than you could raise if you could find an Off-World buyer to buy up Everything with any monetary value on the planet.
+
+To put that figure into perspective:
+
+1. The entire GDP of the U.S. is about $14 trillion
+
+2. The entire U.S. money supply is also about $15 trillion
+
+3. The GDP of the Entire World, is $50 trillion ($1.14 Quadrillion is 22 times the GDP of the Whole World)
+
+4. The real estate of the Entire World is valued at about $75 trillion.
+
+5. The World stock and bond markets are valued at about $100 trillion.
+
+6. The big banks alone, own about $140 trillion in derivatives.
+
+7. The population of the Whole Planet is approaching 7 billion people. So the derivatives market alone represents about $160,000 per person on the planet.
+
+Perhaps the key thing to bear in mind about all these Swap derivatives, is that they are designed to pay-out on failure. So like short-selling and rumour-mongering, it serves the holders of CDS's to actively drive down the financial integrity and stability of the individuals and organisations who are, ultimately, the poor saps at the base of these financial pyramids.
+
+It's like handing bottles of vodka to the neighbour's kid who just got his car: he doesn't do you any favours if he drives his car sensibly and never crashes it.
+
+It's important to understand, as you watch your politicians flailing about, and your "Financial Masters" desperately hoping you won't get a handle on this situation they have completely lost control of, that [b]*YOU*[/b] are now backing every remaining wager in this Casino at the End of the World, and you are paying off the Losers.
+
+In bailout bucks.
+
+Instead of dolling out trillions of taxpayer Dollars, Pounds and Euros, our Governments should simply nullify these obscenely crazy bets (that should never have been made).
+
+Everything has to be reset to Zero. And we [b]*ALL*[/b] have to start all over again, from a Clean Sheet.
+
+The only alternative is that this Financial Apocalypse will become a Real World Apocalypse.
+
+[face_peace]

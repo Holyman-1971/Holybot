@@ -1,0 +1,131 @@
+[quote=[CAT]tgrant][color=green]In the US weren't the banks and the car companies starting to pay that money back?  I thought the banks had already paid it all back...[/color][/quote]
+
+Umm, not quite, no.
+
+As far as the banks go, there weren't actually that many straight cash hand-outs. What actually happened was that the Federal Government paid money to buy up billions of dollar's worth of over-valued and entirely toxic debt instruments and derivatives, euphemistically referred to as "Troubled Assets".
+
+It was the possession of these "Troubled Assets" that were threatening to bring down the major banks, in the same way as Lehman Brothers had collapsed. By purchasing title to these assets, the U.S. Government alleviated the pressure on the banks so that they could get themselves sorted out without completely melting down and spreading further contagion throughout the Finance Sector.
+
+It was different with the car companies and A.I.G., in that the U.S. Government actually purchased stock in these corporations, essentially nationalising or part-nationalising them.
+
+By the end of the fiscal year 2008/2009, the U.S. Government had actually spent around $2.5 trillion in raw bail-out cash. But by becoming buyer of last resort in the money market funds, securities and derivatives markets infected by the Economic crisis, it has actually committed itself to underwriting more than $12 trillion.
+
+[face_peace]
+
+*****
+
+OK, bear with me on this one:
+
+[b]Person 1 takes a mortgage out with Bank A.[/b]
+
+Bank A records this mortgage on its balance sheet as a liability against its [i]capital reserve[/i].
+
+Bank A's capital reserve is, strictly, how much raw capital Bank A actually owns. This is not the same as how much Bank A is actually worth. The actual [i]value[/i] of the Bank is determined by its share price multiplied by the number of shares issued. Bank A can (and absolutely will) provide a higher value of mortgages to many customers, than Bank A actually possesses in its capital reserve.
+
+In other words: Bank A may only have capital reserves of $10 billion; but it may have (and absolutely will have) loaned out $100 billion to mortgage customers.
+
+Bank A can do this because it can borrow money at a lower interest rate from other banks, and from a nation's Central Bank (e.g. The Federal Reserve), than the interest rate available to retail mortgage customers.
+
+So for example:
+
+Bank A borrows $200,000 from Bank B, or Central Bank F, at 1.5% annual interest; Bank A then loans Person 1 $200,000 at 5% annual interest.
+
+[color=blue][b]Bank A makes its money not from putting its own capital "to work", or even the capital of its savers "to work" (as happens with a Savings & Loan Company (Building Society in the U.K.)); but by loaning out money it has borrowed itself, at a higher interest rate than it is paying to the Bank it has borrowed the money from.[/b][/color]
+
+(You may already understand this - it is widely understood - but I'm laying some building blocks down here, so like I said: bear with me! :))
+
+Now there [i]are[/i] guidelines concerning just how much a bank can leverage its capital reserves. Those guidelines are supervised by the [i]Basel Committee on Banking Supervision[/i], housed in the [i]Bank of International Settlements[/i], based in Switzerland. These guidelines are typically arcane, so I won't delve into things like Tier 1 and Tier 2 capital ratios; suffice to say that broadly speaking, banks are only supposed to lend to their customers a maximum of ten times their capital reserve.
+
+In other words:
+
+If Bank A has capital reserves of $10 billion, it may (or should) only loan to its customers a maximum of $100 billion.
+
+Every time Bank A provides a mortgage to Person 1, 2, 3..., the value of that mortgage is stacked against its capital requirement. When Bank A hits that 10% capital ratio limit, it is the same as you and I maxing out our credit card: it may borrow and re-lend no more.
+
+That, at least, is how it is supposed to work. And broadly speaking, up until the end of the 20th Century, that is, mostly, how it worked. However, following the repeal of a Depression-Era piece of legislation (the Glass-Stegall Act) in 1999, everything changed.
+
+[b]Mortgage Backed Securities (MBS)[/b]
+
+Following the repeal of the Glass-Stegall Act in 1999, the regulations that prevented retail/consumer banking operations performing investment banking operations were removed. This allowed banks to package up the mortgage loans they had made to their customers into [i]securities[/i], that for all intents and purposes were like stocks and shares. So:
+
+Bank A borrows money from Bank B or Central Bank F, then loans that money out to Persons 1,2,3...(and more). Bank A then parcels up all of these mortgages into a Mortgage Backed Security (MBS), which it then trades off to institutional investors on a Securities Market.
+
+Having packaged and traded off these mortgages, they no longer count against Bank A's capital requirement ratio. And this frees up Bank A to borrow [i]more[/i] money from Banks B, C, D & E, and Central Bank F; to re-loan out as mortgages to Persons 4,5,6...(and more).
+
+And having once more given out more mortgage loans to yet more customers, Bank A will package [i]those[/i] new loans up into new MBS's, which it then also trades off. Freeing it up to borrow yet more money...
+
+And so it goes: the Sky is the Limit.
+
+Provided, of course, that the Sky doesn't Fall...
+
+OK, so the situation we now have is this:
+
+[color=blue][b]Bank A has capital reserves of $10 billion. However, Bank A has handed out, say, $350 billion of mortgages to its customers (leveraging its capital reserves by a factor of 35). Bank A is able to do this, because it has packaged up all those mortgages into MBS's, which it has then traded off to the MBS market.[/b][/color]
+
+The MBS's that originated with Bank A, have a notional value on the Securities Market that is based on Persons 1,2,3,4,5,6..., repaying both the principal and interest on the underlying mortgage assets. The value of these MBS's, like the value of traditional stocks and shares, is based on the Market's confidence about the yield that these securities will provide.
+
+Credit ratings agencies like Moody's and Standard & Poor's would award each MBS a rating that was supposed to correspond to the confidence investors could place in the potential yields of these securities. And almost without exception, these agencies (which are incidentally, wholly funded by the same banks originating the MBS's) were awarding MBS's a AAA rating, justified not by the credit-worthiness or risk-reliability of the people obligated to repay the underlying mortgage, but by the reliability and reputation of the actual bank that issued the MBS.
+
+So, even though Fannie Mae or Freddie Mac may have given out billions of dollars of mortgage loans to high-risk or "sub-Prime" borrowers, by the time these loans were parcelled up into an MBS and issued to the Market, the security was seen as originating from Fannie Mae or Freddie Mac, rather than that of the underlying customers actually borrowing the money. And so the MBS's were awarded AAA-ratings, because of the perceived reliability and reputation of the lender, rather than the borrowers.
+
+So what happens if and when the underlying borrower or borrowers do default on their mortgage repayments?
+
+Well let's remind ourselves that a mortgage is a loan secured by an asset: the property that has been purchased with the mortgage funds. So if the occupier of the mortgaged home fails to keep up their repayments, the mortgage lender repossesses the property, sells it off, and gets its money back that way.
+
+No problem, right?
+
+Right.
+
+But just in case - and to cover all eventualities - mortgage lenders were able to take out (essentially) insurance against the risk of underlying mortgage repayment defaults. And these "insurance policies" were/are known as...
+
+[b]Credit Default Swaps (CDS)[/b]
+
+A CDS isn't, strictly speaking, an insurance policy, because rather than premiums being paid into a pool that may later be claimed from if necessary, CDS are actually private contracts between two parties. Wholly unregulated and wholly opaque, these private counter-party contracts were actually a new form of financial derivative.
+
+Bank A, having loaned money to Person 1, could go to Counter-Party X (frequently an insurance company, like AIG), and enter into a contract to insure the loan against default.
+
+Counter-Party X would assess the risk of default on the underlying lending, and charge a premium to Bank A. In the event that the underlying loan was defaulted upon, Counter-Party X would pay Bank A the value of the loan. If there was no default, then Counter-Party X simply pocketed the premium.
+
+So far, so sensible.
+
+However, there is a neat little twist to this element of the picture.
+
+Bank A could (and did) take out as many CDS contracts as it could afford to (or risk) paying the premiums on, [b]ON ANY SINGLE LOAN[/b]. Provided it could find a counter-party willing to take the premiums.
+
+So whilst there was just a single underlying loan (between Bank A and Person 1), that loan could support an unlimited number of CDS contracts.
+
+Furthermore, it wasn't just Bank A that could take out a CDS contract on the loan between Bank A and Person 1. If Banks B, C, D & E were aware that Bank A had loaned Person 1 some money, then they could also create CDS contracts with a counter-party, on the basis of that single underlying loan.
+
+So whilst the underlying loan between Bank A and Person 1 might only have been for, say, $200,000, by the time all the CDS bets had been placed, that underlying $200k loan might be supporting millions of dollar's worth of CDS contracts.
+
+Whilst Person 1 was competently paying back the $200,000 loan, the CDS counter-parties would be raking in the premiums. But if Person 1 defaulted on the $200,000 loan, the counter-parties would have to pay out on each and every CDS contract based on that loan.
+
+So the fact that Bank A could repossess the secured property and sell it off, it could also benefit to the tune of millions of dollars because the CDS contracts paid out. As would any other institution that had entered into a CDS contract on that underlying loan.
+
+To give you an illustration of the situation that created:
+
+In 2008, the total value of outstanding mortgage debt in the U.S. was around $14.5 trillion.
+
+At the same time, the value of the Credit Default Swap derivative market based on that mortgage debt, was around $60 trillion.
+
+And like the Mortgage Backed Securities, Credit Default Swaps were [i]also[/i] traded on the derivatives markets like stocks and shares.
+
+The picture I'm trying to build up here is not of the raw indebtedness of individual banks, insurance companies and financial institutions like hedge funds; but of the sheer scale of the Securities and Derivatives Markets that had been built up in a very short space of time.
+
+These Mortgage Backed Securities (about $9 trillion worth in 2008) and Credit Default Swap derivatives (about $60 trillion worth in 2008), where all held by the same banks, insurance companies, hedge funds and structured investment vehicles that had created them. And unlike the traditional Stock Exchange, the holding and trading of the derivatives was entirely unregulated.
+
+[b]The Property Bubble[/b]
+
+Because the banks were free, after the repeal of the Glass-Stegall Act, to massively leverage their capital bases through the facility of Mortgage Backed Securities, the race was on to issue as many mortgages as possible, in order to create as many MBS's as possible. And this had several effects.
+
+One effect was that just about anyone who could sign their name on a mortgage application could get a mortgage. Very little checking or validation of mortgage applications took place, because getting some poor sap to sign up to a mortgage was just the first step in the process that enabled the Finance Sector to create the massive pyramid of MBS's and CDS's that would sit on the back of these underlying loans.
+
+The more hundreds of thousands of dollars mortgages that could be issued, the more hundreds of [b]millions and billions[/b] of dollars worth of MBS's and CDS's could be loaded onto the back of them.
+
+Another effect of the free and easy availability of mortgages was the massive inflation of a Property Bubble.
+
+Because just about anyone could get a mortgage, there was a greater and greater demand for property. And this caused property prices to sky-rocket.
+
+And the consequence of sky-rocketing property prices encouraged yet further and further relaxation in the qualification for mortgages. This because the banks knew that with property prices spiralling upwards, they could safely give a mortgage to anyone, secure in the knowledge that if they had to repossess a property, it would have actually [i]appreciated[/i] in value since the mortgage was originally provided. And this would mean that the bank would repossess a property that was worth even more than the value of the mortgage originally used to purchase it.
+
+Happy days.

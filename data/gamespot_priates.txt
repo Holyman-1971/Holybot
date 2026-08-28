@@ -1,0 +1,137 @@
+OK then.
+
+In the Red Corner, we have the Titans of Wall Street, the Masters of the Universe, those too-big-to-fail, too-big-to-jail organisations and individuals who earn 8 and 9 figure annual incomes, while the rest of us decide whether to pay our mortgages or put food on the table.
+
+Specifically, it is Hedge Funds that are in the ring for this bout.
+
+In the Blue Corner, we have a non-centralised, non-organised, amorphous collection of independent day-traders who, thanks to the Pandemic, have a lot of time on their hands, small, stimulus-check-sized amounts of money they can afford to lose, and multiple social media platforms on which to share their grievances and activities with anyone who wishes to discuss and emulate them.
+
+Since we're currently in Sea Shanty Mode, think of the Hedge Funds as lightly-armed galleons making money shipping slaves and contraband around the Caribbean; and the Day-Trading Activists as a loose confederation of Pirates.
+
+Right, let's talk about Short-Selling.
+
+If I think the stock value of a public corporation is going to go down in the near-to-medium future, what I do is *BORROW* a bunch of those shares from a Pension-Asset Manager, agreeing to give back the exact same number of shares at a date in the future.
+
+As soon as I receive those shares from the Asset Manager, I sell them at their current market price.
+
+At the end of the contract term, I will need to then purchase the same amount of shares from the Market in order to give them back to the Asset Manager.
+
+Now if my predictions were correct, I should be able to buy those shares from the Market at a (hopefully much) lower price than I sold the ones I borrowed for. And that's where I make my profit.
+
+E.g.
+
+On 1st January, I borrow 1 million shares of Foota, inc. from Slacks Asset Managers, plc. On that date, Foota, inc. shares are trading for $20 a share. As soon as Slacks hands them over to me, I sell them for $20 million.
+
+On 31st December, I have to give 1 million shares of Foota, inc. back to Slacks, which means I have to buy them from the Market. But happily, I can now buy shares in Foota, inc. for $1 per share, which means it only costs me $1 milion.
+
+Slacks gets his 1 million shares back, and I pocket $19 million profit.
+
+Easy money, right?
+
+Well, almost. But it isn't a completely hands-free operation.
+
+If, God-forbid, shares in Foota, inc. actually go up in value, then I'm going to lose money. Because if I have to buy 1 million shares at $40 a share, then that's going to be a $20 million loss to me.
+
+So there are two things I can (and will) do.
+
+The first - and most important - is to do everything in my power to ensure Foota's share-price keeps going down. And to achieve that, I make sure that everyone else in the Market knows I have taken a short position on the stock, and encourage them to sell their Foota stocks too.
+
+Running a negative publicity campaign on Foota, inc. is the most effective way to do that, and hopefully the reasons why I took a short position in the first place should be obvious to all.
+
+The second thing I can do to, uh, hedge my bet, is to keep an eye on the share price's decline, and if I don't think it is going to fall as far as I first thought, then I can buy some (or even all) shares from the Market ahead of the date that I've got to give them back to Slacks.
+
+This process is called "covering". It's not ideal, but it is better than making a loss. And I'm free to sell any shares I bought to cover my position, any time before the maturation date of the contract, if and when they do start dropping as fast as I thought they would.
+
+So there is always the possibility that I might not make quite as much profit as I hoped I would, if they don't drop in value as far as thought they might. But the most important thing to ensure is that the value of the shares do not rise *ABOVE* the value I sold the borrowed shares for. Because then it is going to cost *ME* money - and we can't be having that, can we?
+
+There are those who say that the practice of short-selling is inherently unethical. It can hardly be called "investment", because you are betting on failure. And indeed, many politicians in many countries regularly declaim the practice and try to get support to end it.
+
+However, the fact of the matter is that it is a practice that makes a *LOT* of money. And a small percentage of the money made is used to pay for politicians' campaigns. So what choice do politicians have? Listen to their voters, or listen to the people who pay for them to be elected?
+
+It's a no-brainer really.
+
+So...
+
+The Red Team controls enough capital to dominate the functioning of the Financial Markets in the same way they control our politicians. Citizens might complain about the behaviour of the Red Team, but what can they do about it?
+
+Well, sweet fuck all is the Conventional Wisdom.
+
+But then, along came the Pandemic.
+
+And a bunch of Day Traders had more time than usual to discuss their feelings on Social Media (Reddit and Discord mostly, in this case).
+
+Most Day Traders have a 15-25% buffer of cash that they aren't too upset about losing, because that's usually 15-25% of a thousand or so dollars/pounds/euros &c.
+
+And lo, the idea emerged (as these things do on Social Media) that if enough of these Day Traders spent small amounts of their "losable" capital buying a stock that Hedge Funds were shorting, they might possibly push the share price up rather than down, and consequently cause the Hedge Funds a bit of discomfort.
+
+You might recall about ten years ago, when there was a similar effort by Social Media-connected individuals in the UK to prevent Simon Cowell having another Christmas No. 1, by getting people to purchase Rage Against the Machine's "Killing in the Name": https://www.npr.org/sections/monitormix/2009/12/rage_against_the_machine_ragea.html
+
+Well, this is the same principle.
+
+Nobody need spend money they can't afford to lose on buying a shorted-stock; but if enough nobodies bought enough of the shorted--stock, then the Big-I-Ams in the Hedge Funds would suffer.
+
+And so it came to pass that an ailing, bricks-and-mortar game shop called Gamestop was selected as the stock to purchase.
+
+Gamestop was going the way of Blockbuster before the Pandemic hit, and Lockdown only accelerated that trajectory. Fair enough. And it was clear that many Hedge Funds had taken the sensible decision to short Gamestop's stock.
+
+April 2020, Gamestop's stock value was around $3.50 a share. About a month ago, following a few months of interest in its being bought by somebody who might be able to turn its fortunes around (as that person had previously done with a chain of U.S. pet supplies stores), the value of its stock had risen to $20.
+
+Since it was a heavily shorted-stock that didn't seem to be completely dead on the canvas, it was selected by the Day-Trading members of a sub-Reddit.
+
+That's the equivalent of the Pirates spotting a booty-laden Hedge Fund galleon.
+
+Before too much longer, the stock price of GameSpot began to rise, and Hedge Funds began to worry.
+
+What could the Hedge Funds do about that?
+
+Well, remember "covering"? Hedge Funds had no alternative but to start buying GameSpot shares themselves.
+
+And guess what that did to GameSpot's stock price?
+
+Yup. Now the Pirate Ship was alongside the galleon and the boarding party was laying down the planks.
+
+Last time I checked, GameSpot's stock price was around $350 a share, though I think it peaked in pre-Trading today at $500.
+
+Think about that.
+
+Imagine you're on the Red Team, and at the beginning of this year, you borrowed a million GameSpot shares when they were trading at $20. Your hope is that when you have to give those million shares back, the price will be (say) $10, netting you a handsome $10 million profit.
+
+However, if you now have to buy a million shares at $350 a share, then I'm afraid that's going to cost you $330 million.
+
+And that's if you only bought a million. Most Hedge Funds will have bought far more than that, because $10 million profit will barely cover the annual cost of your private jet.
+
+So what can the Red Team do about this?
+
+Basically, not a lot.
+
+The instinctive reaction was to demand Reddit (and Discord) shutdown the sub-Reddits (and Channels) that the Pirates were using. Reddit and Discord duly complied, citing the use of profanities as the reason for the suspension. But this just demonstrated to the world (of Day Traders) that the Hedge Funds were panicking. And in any case, the cat was out of the bag now, and it isn't like Day Traders don't have many, many forms of communication available to them.
+
+And of course, now that the principle had been demonstrated, why restrict the Activism to GameSpot? There are *PLENTY* of other stocks that Hedge Funds have shorted.
+
+And of course, of course....
+
+There is nothing illegal going on here.
+
+The crime it most closely resembles is a "Pump-and-Dump" scheme, where unscrupulous individuals and organisations (most of them on Wall Street and in the Hedge Fund Sector), hype up a shitty stock to get unwary investors and Day Traders to buy it, before dumping their own holdings.
+
+But that isn't what is going on here.
+
+Buying shares is no crime. Buying shares because you want to profit from the losses of another Market participant is not a crime - that's basically the sole business model of Hedge Funds.
+
+There is no central organising authority or entity here. This Activism sits there with #BLM, les gilet jaunes, anti-fascist movements and even those people who were jostling and mildly inconveniencing others at the Capitol Building a fortnight ago.
+
+This is just an Idea that is being simultaneously acted upon by a large volume of people.
+
+And best I can tell, there's nothing the Securities and Exchange Commissions or Governments can do about it.
+
+They can suspend trading in a particular stock for a set period (30 days is typical), but that will just force the Activists to turn their attention to other stocks.
+
+It is going to be difficult, if not impossible for Hedge Funds to try and appeal to the Public's sympathy.
+
+So what could happen?
+
+Well, we are probably looking at multi-billion dollar failures of some Hedge Funds here.
+
+And that sort of thing causes Contagion, and a cascade of defaults throughout the whole rotten System.
+
+The next few days and weeks are going to be very interesting.

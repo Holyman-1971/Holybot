@@ -1,0 +1,47 @@
+Now I don't know if I'm guilty of using an exploit, but soon as I realised that the enemy has a kamikaze-like fixation for my artillery and my General, it struck me that I might be able to use that tendency to my advantage.
+
+So I nearly always field four pieces of artillery: 3 pieces of which I group as the "Holy Artillery"; and the 4th piece as the "SomeGuy Artillery".
+
+I place the 3 pieces of "Holy Artillery" at the front of the main battle group, with just one infantry group either side of the artillery, and two infantry groups behind the (Holy) artillery. I place two more infantry groups behind the two front-line infantry groups; and behind these, two militia groups (pike militia to begin with; then infantry militia when I have the requisite bayonet technology).
+
+I put cavalry on either flank, and if I can afford them, two dragoon groups in the middle to the rear, along with another militia group as mobile reinforcements.
+
+Finally, I place the "SomeGuy Artillery" about 50 - 100 paces in front of the main battle group, depending on how steep an incline I've been able to find during the deployment phase. The key is to not place them out-of-range of the front-rank infantry units, for reasons that should be becoming clear.
+
+And so that SomeGuy doesn't just get completely zapped at the off; I give him two (pike/bayonet) militia units to keep him company in No Man's Land.
+
+So it should look something like this:
+
+[image=http://www.1person.com/images/holybattleform.jpg]
+
+I've only been playing Campaign Mode so far, rather than single battles, so this is what I aim for; but it's damned expensive paying the upkeep for more than a couple of armies of this size. I don't always have the Dragoons, and both the Infantry and Cavalry units can often be the Native Militia variants when I'm fighting in North America. (Have also only played Great Britain in the Campaign Mode...)
+
+Anyway, as you've probably figured out by now, the SomeGuy Artillery/Militia Units act as an irresistible lure for the approaching enemy units; and also, as a nice focal point for my main battle group.
+
+It isn't all bad news for the SomeGuy group: obviously I try to keep them alive for as long as possible. So I build defensive fortifications for the militia units, if allowed; and always try to make the best use of cover provided. If possible, I'll try and position the whole group in front of obstacles that the enemy will have to climb or jump over; and since I'm usually defending against an attack launched to break a siege I've got going on, there's often farmstead walls and trees available. However, I find it's usually a trade-off between having a decent (reverse-) incline or having obstacles.
+
+I also find that with only a few exceptions, this quite heavily defensive formation is usable even when I'm attacking. I don't have any time-limit set on the Campaign Battles I fight, so I'm never in any rush; but fortunately, the (AI) enemy usually is. :) Oh... Except when I'm attacking a region capital, in which case I usually have to winkle the bastards out of whatever building they've holed up in.
+
+If I do have to move my group, and I haven't got mobile (limbered-) artillery, then I will always withdraw the artillery guys from the map, in order to save them from any sneaky [i]manoeuvres de derrière[/i]. (Can't afford the time or money to replace artillery in North American fighting.)
+
+Otherwise, if I have to move, then I'll limber-up the artillery and move the whole group as a single mass. Advancing by flanks is okay if you massively outnumber the enemy, but otherwise it's asking for trouble.
+
+You'll notice that I don't use the Game's default formation of stretching out all infantry units in a big long line. The idea of having a single, long and wide "Thin Red Line" is that you can present a massive wall of musketry volleys. But I've yet to find an enemy that advances in a mirror-opposite formation. Rather, they tend to pick a spot in the line and try and pummel through it, and you end up having to pull your end-of-the-line infantry units back to the centre to plug the gaps.
+
+You are also quite likely to experience enemy cavalry coming in at the side of such a line formation, attacking those end-of-the-line infantry units at the same time as the main enemy force is hitting your centre. This causes you, the defender, to essentially break your battle group up into 3 separate groups, as you try and rescue the cavalry-ravaged end-of-the-line groups, [b]*AND*[/b] plug up your centre.
+
+Keeping your group tight and compact discourages enemy charges, and also means that you keep all battlefield activity within a reasonable scope of vision.
+
+I've actually found that using the "SomeGuy Artillery as Bait" strategy means that I rarely have to deal with a full charge on my main defensive line. Usually, by the time the enemy is chasing the remnant of the "SomeGuy" Group back to my lines, the enemy is so exhausted and depleted that they run as soon as I bring forward the infantry units protecting the guns to have four front line infantry units firing (don't forget to ceasefire on your main artillery - and limber them up if applicable).
+
+I then let my cavalry and dragoons clear up the fleeing enemy, so that I don't have to worry about them re-grouping for a later battle.
+
+Like I say, I've only tried this with Campaign battles, and even then, only against the Native Americans. But before I locked this strategy down, I did get my arse handed to me several times by Native forces I thought I'd outnumbered, just because of the way that they broke up my defensive line into smaller groups.
+
+Maybe sacrificing the up-front artillery is something of an exploit, because it does make most battles a piece of cake. But I'm also pretty certain it would work against human players as well; since if they don't take out that front group, it will do them a lot of damage as they try to close in on the main group.
+
+I think keeping the main group tight and together is the real key. Though I haven't gone up against an enemy with artillery that would exploit the tightness of my formation, I'm pretty confident that with the range advantage of the spear-head artillery out front, and effective use of the terrain (like Wellington at Waterloo :)), I will be able to hold my own against other European forces.
+
+Will let you know; 'cos I'm aiming to wipe out France this week. :)
+
+[face_peace]

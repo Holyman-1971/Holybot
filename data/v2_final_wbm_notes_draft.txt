@@ -1,0 +1,41 @@
+DRAFT - DO NOT DISTRIBUTE
+
+Title: Whiteboard & Brainstorming Session Notes (Project Holybot)
+
+Date: July 2026
+
+Author: Dr. Alex Mercer "Architect" & Team
+
+Executive Summary:
+
+This document outlines the architectural requirements for the Holybot File Prep Tool.
+The primary goal is converting messy Microsoft Word documents (.docx) into clean, high-density plain text (.txt) files suited for LLM context windows.
+
+Key Technical Decisions:
+
+1. DocumentFormat.OpenXml 3.x integration in .NET 8.0 WinForms.
+
+2. Standardizing messy filenames into snake_case format (e.g., draft_v2_FINAL_wbm notes.docx -> wbm_notes_draft_v2.txt).
+
+3. Preserving UTF-8 encoding while stripping non-standard ASCII control characters, excessive newlines, and smart quotes ("like this" and 'that').
+
+4. Creating a target subfolder named "/source_docs" automatically.
+
+System Specs & Dependencies:
+
+- Framework: .NET 8.0 Desktop Windows Forms (C#)
+
+- Required NuGet Packages: DocumentFormat.OpenXml >= 3.0.0
+
+- UI Components: DataGridView with custom columns (Original Filename, Proposed New Filename, Conversion Status, File Size).
+
+- Progress Monitoring: Real-time ProgressBar and RichTextBox logging stream.
+
+Junk Artifacts to Clean:
+
+ [UNPRINTABLE_BINARY_METADATA_HEADER_CHUNK]
+  Multiple  excessive  spaces  and  tabs  to  be normalized.
+
+Smart quotes replacement test: "Holybot LLM ingest engine" - works flawlessly!
+
+End of Document.

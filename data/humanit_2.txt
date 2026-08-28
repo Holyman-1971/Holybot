@@ -1,0 +1,21 @@
+[quote=KoolAidManPBF][color=green]I don't think wedding yourself to a particular company (in my case, Cisco) is necessarily a bad thing. By learning the Cisco CLI, you are gaining knowledge in a CLI that has been copied (for the most part) in every other networking company's CLI: Extreme, Juniper, Dell, etc. As long as you are learning the underlying principles, I don't see the harm in it at all. [/color] [/quote]
+
+Ah, sorry, perhaps I wasn't clear.
+
+What I meant by "not wedding yourself to a particular company", was not investing yourself, or anticipate spending your whole career working for the same company.
+
+This is mostly because promotion [b]*WITHIN*[/b] the same company is much more difficult than gaining a promotion by moving (diagonally) to a different company.
+
+And that's where moving from SME's to large enterprises and back again works really well for accelerated career progression.
+
+I think in terms of specialising in a particular company's product or technology is [b]*DEFINITELY*[/b] the right thing to do, especially with Cisco - since all other Network technology providers are but pale imitations of Cisco.
+
+Hate to say it, but it's the same with Microsoft too. As much as Microsoft gets a bad press amongst the IT fraternity, for being too monopolistic and lacking innovation, fact of the matter is that Microsoft's market penetration means you're 10 times more likely to encounter Microsoft technology on Desktop PC's and Network Servers, than any other product.
+
+It is certainly beneficial to diversify and explore alternative products on the desktop and network, but having a core foundation with Microsoft and Cisco is pretty much essential for job application and security. Even if you dislike Microsoft technology, you've got to be able to demonstrate technically why you eschew it; not just dismiss it because you don't like Bill Gates and all he stands for...
+
+But if you're going under the User Interface to network engineering, then building your career around an understanding of Cisco technology is, in my opinion, absolutely essential.
+
+Almost as essential as understanding Human v1.0. :)
+
+[face_peace]

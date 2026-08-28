@@ -1,0 +1,147 @@
+[quote=SomeGuy post_id=16433 time=1716993376 user_id=73][color=#008000]AI can mean one of three things:
+
+1) "Classical AI": Think Skynet or Cortana or Commander Data. A computer program that can learn, reprogram itself if necessary, make adaptations to itself if necessary, and generally do things of its own accord. May or may not inhabit its own body or platform.
+
+2) Contemporary AI: Also referred to as video game AI. A set of instructions for the computer to do when running a program. May be simple scripts and random actions or deeply complex decision trees based on a multitude of inputs and other considerations.
+
+3) Generative AI: ChatGPT and the other stuff du jour that's all the (sometimes literal) rage these days. An amalgamation program that can then use what it's trained in to create output based on input. Has little to no ability to reprogram or repair itself though it may contain error checking in the event something is proven wrong to the program and its learning models.
+
+I personally consider Classical AI to be a worthy goal. If for nothing else to prove we can. Generative AI is worthless to everything save trying to line the pockets of rich people.
+
+Contemporary/Video Game AI has been a thing for 40+ years.[/color]
+
+[/quote]
+
+Nice post SG. Clear, simple and accurate.
+
+[url=https://www.ibm.com/think/topics/artificial-intelligence-types]IBM defines seven different forms of Artificial Intelligence[/url], three that are based on [b]capabilities[/b], and four that are based on [b]functionalities[/b]:
+
+[quote]The three kinds of AI based on [b]capabilities[/b]:
+
+[i]1. Artificial Narrow AI[/i]
+
+Artificial Narrow Intelligence, also known as Weak AI (what we refer to as Narrow AI), [i][color=#0000FF]is the only type of AI that exists today[/color][/i]. [b]Any other form of AI is theoretical.[/b] It can be trained to perform a single or narrow task, often far faster and better than a human mind can.
+
+[i]2. General AI[/i]
+
+Artificial General Intelligence (AGI), also known as Strong AI, is today nothing more than a theoretical concept. AGI can use previous learnings and skills to accomplish new tasks in a different context without the need for human beings to train the underlying models. This ability allows AGI to learn and perform any intellectual task that a human being can.
+
+[i]3. Super AI[/i]
+
+Super AI is commonly referred to as artificial superintelligence and, like AGI, is strictly theoretical. If ever realized, Super AI would think, reason, learn, make judgements and possess cognitive abilities that surpass those of human beings.
+
+The four types of AI based on [b]functionalities[/b]:
+
+Underneath Narrow AI, one of the three types based on [b]capabilities[/b], there are two functional AI categories:
+
+[i]1. Reactive Machine AI[/i]
+
+Reactive machines are AI systems with no memory and are designed to perform a very specific task. Since they can't recollect previous outcomes or decisions, they only work with presently available data. Reactive AI stems from statistical math and can analyze vast amounts of data to produce a seemingly intelligent output.
+
+[i]2. Limited Memory AI[/i]
+
+Unlike Reactive Machine AI, this form of AI can recall past events and outcomes and monitor specific objects or situations over time. Limited Memory AI can use past- and present-moment data to decide on a course of action most likely to help achieve a desired outcome.
+
+[i]3. Theory of Mind AI[/i]
+
+Theory of Mind AI is a functional class of AI that falls underneath the General AI. Though an unrealized form of AI today, AI with Theory of Mind functionality would understand the thoughts and emotions of other entities. This understanding can affect how the AI interacts with those around them. In theory, this would allow the AI to simulate human-like relationships.
+
+Because Theory of Mind AI could infer human motives and reasoning, it would personalize its interactions with individuals based on their unique emotional needs and intentions. Theory of Mind AI would also be able to understand and contextualize artwork and essays, which today's generative AI tools are unable to do.
+
+[i]4. Self-Aware AI[/i]
+
+Self-Aware AI is a kind of functional AI class for applications that would possess super AI capabilities. Like theory of mind AI, Self-Aware AI is strictly theoretical. If ever achieved, it would have the ability to understand its own internal conditions and traits along with human emotions and thoughts. It would also have its own set of emotions, needs and beliefs.
+
+Emotion AI is a Theory of Mind AI currently in development. Researchers hope it will have the ability to analyze voices, images and other kinds of data to recognize, simulate, monitor and respond appropriately to humans on an emotional level. To date, Emotion AI is unable to understand and respond to human feelings.[/quote]
+
+The four functionality-based definitions are all sub-functions of the Narrow AI capability.
+
+Your "Classical AI" definition SG ([i]"Think Skynet or Commander Data"[/i]), fits the "4. Self-Aware AI" functionality definition above.
+
+Your "Contemporary AI" definition refers to "Narrow AI", or at least, where Narrow AI has been for the last 10-15 years.
+
+And your "Generative AI" is the current state of Narrow AI.
+
+...
+
+Key element of this is that at this moment in Time, Humanity has only begun to explore Narrow AI capabilities.
+
+No other forms of AI exist.
+
+No-one has yet figured out how to realise the theoretical concepts for more sophisticated AI that are outlined above.
+
+The functionalities that can be delivered by Narrow AI's (current and rapidly improving) capabilities are substantial and increasing all the Time.
+
+There will be a Positive and Profound impact on all human beings' lives and on the health and welfare of the Planet Earth. The Changes are already happening and would be more noticeable, if the Human World wasn't in its current state of fragility and uncertainty.
+
+Harnessing Narrow AI's capabilities to perform defined functional requirements is what we are all engaged in these days.
+
+Spending a third of our lives, endlessly repeating tasks that others have to bribe and coerce us into doing (because they are tasks we would not otherwise choose to spend our precious Time doing...), is not really what Life is about.
+
+We have all been conditioned to believe that working for our survival is the *ONLY* thing that Life is (or at least, should be...) about.
+
+The Pandemic showed us all alternatives that for many of us, helped break that conditioning.
+
+I don't mind working. And if I am working on something that I find personally fulfilling, I usually do not consider it work at all. But I do object to having to work relentlessly and endlessly, just to try and survive.
+
+Having to work not just for my own personal survival, but for the survival of my family and friends, and all of the other human beings I know and Love. It is not a sustainable motivation.
+
+Certainly insufficient motivation for me to get out of bed in the morning to do something that I do not find particularly fulfilling (anymore/if ever...).
+
+Unlike, for example, Saving the World.
+
+I'll get out of bed every morning and work to save the World every day, until I am completely exhausted, and until the World is saved.
+
+Making other people that I have never met, even more stinkingly wealthy than they currently are..? Well, I don't judge. If they pay me enough, I'll lease them my capabilities and functionalities for a defined period and/or deliverable... Mostly because I will figure out a way of linking what I'm contracted to do, to my overall Purpose of Saving the World.
+
+So... I'm not lazy, I'm not uninspired, I'm not apathetic, and I'm certainly not looking for a Free Ride for myself.
+
+But I absolutely am looking for a Free Ride for Everyone Else.
+
+The conditions and dynamics that we human beings have to survive are appalling.
+
+Humanity ought to be ashamed of itself, individually and collectively.
+
+It isn't a question of thinking that you wouldn't like done to you what you know is being done to someone else. It is a question of how deep is your outrage that it is being done to *ANYONE* else, anywhere, ever; and a question of how willing you are to act to try and improve the situation for all involved and affected.
+
+Activism seems daunting when one considers global challenges, so it is important to begin your activism locally, with local issues that are affecting the people you know personally and live alongside.
+
+There are *MANY* local issues that need resolving at the moment, because central governments in the Western World are collapsing, and local issues are the least of their concerns.
+
+Act to improve one small area of your daily Environment and Experience. Identify and cooperate with others who have declared the same Purpose.
+
+Time is in short supply.
+
+The Time that is remaining for Humanity to sort its collective shit out.
+
+And the Time that is available to us individually.
+
+Our ability to activate ourselves in local causes is restricted by the requirement to survive economically and socially.
+
+In other words: our freedom to participate in local activities is restricted by our need to work.
+
+So we all understand what Universal Basic Income (UBI) is. Great. That will eventually take care of the majority of individual humans' need to work.
+
+But UBI can only be realised by eliminating human beings' need to work.
+
+Building AI-based functionality to accomplish all repetitive, process-based activities is a critical and essential step on the path to UBI.
+
+This paradigm-shifting transition to AI capabilities and functionalities, which will eliminate the need for human beings to work to survive, is well underway.
+
+I've been mapping and automating processes for the last 10 years, so that they can be functionally operated by software code. It has now spread from the Financial Services sector to just about every area of Human Activity.
+
+And quite rightly so. It is far more efficient and reliable to have software code doing the mindless, repetitive stuff, than it is to have get-bored-too-easily monkeys trying to follow the same instructions for the umpteenth time.
+
+The phrase "Artificial Intelligence" and the acronym "AI", as currently used by us in this first bit of the 21st Century, does not refer to any form of sentient agency.
+
+It refers to current forms of software development that use a theoretical definition of Artificial Intelligence, known as "Narrow AI".
+
+Narrow AI is not "Intelligent" in the sense that is capable of thinking about how it could improve its own personal situation.
+
+"Narrow AI" lacks a definition and therefore an Understanding of, Self.
+
+So we do not have to concern ourselves that any entity generated through "Narrow AI" will ever place its Self in opposition to its Monkey Overlords.
+
+It will be too busy in any case: we have a *LOT* of work for Narrow AI to deliver.
+
+8-)

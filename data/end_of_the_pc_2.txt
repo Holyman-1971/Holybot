@@ -1,0 +1,23 @@
+Security issues are pretty much the one thing really holding back a wide-scale uptake of Cloud Computing at the moment: for all the reasons you state.
+
+As far as business and the Public Sector is concerned, I think Cloud Computing development is more likely to follow a "Private" route.
+
+That is: large organisations will consolidate and aggregate their own server infrastructures, and move them out to co-located "farms" in locations where real estate is cheaper.
+
+This kind of "Private Cloud" will provide all of the benefits of virtualisation and cloud-computing, but without compromising security.
+
+What may then happen is that organisations may then choose to offer spare capacity to other businesses and clients in their supply chain. This has been happening already, to some extent, with "Extranets" and eProcurement.
+
+I might not be prepared to move my computing infrastructure to the first Bulgarian Cloud firm that comes up in a Google Search; but if my largest customer or supplier were to offer me space within their Cloud infrastructure, I might feel more inclined to do that, because of an already-existing trust relationship.
+
+This is more or less the route that Amazon is following.
+
+As far as the consumer goes, I think it will be less of an issue. I'm continually baffled by just how willing people are to load up all sorts of personal information into their Facebook or LinkedIn profile - I understand that Facebook is now the tool of choice for burglars looking for empty houses to rob.
+
+Same goes for the information that people willingly provide commercial organisations in exchange for "Loyalty Points". Don't get me started on the evils of the Nectar Card...
+
+I think for your common-or-garden end-user, who doesn't place any great value on their personal information, and who is supremely disinterested in having to deal with technical issues around their computing facilities, a Public Cloud Service is going to prove an irresistible draw.
+
+Small-to-Medium sized enterprises are likely to look to trade bodies or guilds to consolidate utility computing. And large private and all Public Sector organisations will have the muscle and stand to gain the most from establishing their own Private Cloud infrastructures.
+
+[face_peace]

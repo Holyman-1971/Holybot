@@ -1,0 +1,157 @@
+Right then, first a disclaimer:
+
+[i]This post does not contain any opinion on Economic Theory, or any theorising about a possible solution to the situation described therein. It is merely a simplified general analysis of the situation, worded in terms that non-Economists should be able to follow.
+
+If on reading it, you think there is anything incorrect with my factual analysis of the situation, please feel free to correct those errors: I will gladly welcome any factual corrections.
+
+If, on the other hand, you feel the urge to write a long and turgid post, drivelling away about my ideological short-sightedness and the unfeasibility of my proposed "solutions" (hint: there won't be any)... Then, well, fuck off and get a Life EvilFitch.[/i]
+
+OK then.
+
+[b]1.)  PIIGS = Portugal, Italy, Ireland, Greece and Spain
+
+2.) Banks' Greed[/b]
+
+There's an old proverb about a frog and a scorpion.
+
+A frog and a scorpion meet on the bank of a river. The scorpion asks the frog to carry him across the river on its back. The frog asks, "How do I know you won't sting me?" The scorpion replies, "Because if I do sting you, I will die too."
+
+The frog is satisfied, and they set out, but in midstream, the scorpion stings the frog. The frog feels the onset of paralysis and starts to sink, knowing they both will drown, but has just enough time to gasp, "Why?"
+
+The scorpion replies: "Because it is my nature..."
+
+Greed sounds like a pejorative word. When we apply it to one and other, it is difficult to mean it in a kind or positive way.
+
+But banks, and bankers, exist purely to make money. To the banks, greed isn't a moral value judgement: it is their [i]raison d'etre[/i]. There is simply no point in arguing over whether or not banks and bankers are greedy. The sole purpose of a bank's existence is to make money, to make as much money as possible. And banks [b]WILL[/b] make as much money as the legal statutes and regulations of the societies they operate in will allow.
+
+Banks and bankers will not break the law, certainly not as a matter of policy. They are too high profile and their transactions too public for them to get away with breaking the law as a matter of course. Individual bankers, traders and brokers can and do break the rules and the laws, and many of them do so for a long time without getting caught - some never get caught. But as a matter of operational policy, banks will make money within the confines of the law and regulatory systems they are bound to operate by.
+
+[b]3.) The Power of Banks[/b]
+
+Banks are the single wealthiest institutions in Society.
+
+People who work at the highest echelons of the Global Banking System, are the wealthiest group of human beings in our Society.
+
+In our Society, wealth equates directly to power. The greater the wealth one has, the greater one's power and influence. In our Capitalist-Democratic Society, there is no greater nexus of power and influence than that which exists between bankers and politicians.
+
+Henry Paulson, George W. Bush's Treasury Secretary during the financial crisis that blew up in 2007/8, was formerly the Chairman and Chief Executive of Goldman Sachs.
+
+Banks and bankers are able to exert enormous influence over politicians, because of the substantial cost of running election campaigns. Banks have no political ideology; their only ideology is the accumulation of as much wealth as possible. In both the U.S. and the U.K., banks contribute equally to both major political parties. Banks are only concerned that the eventual winner of any election repays the banks' contributions with political and legislative favour.
+
+[b]4.) Financial Instruments and Derivatives[/b]
+
+In their pursuit of unlimited wealth, the trading arms of the big banks, as well as hedge and pension fund managers, created a multitude of debt instruments and derivatives, which were then traded between the elements of the Finance Sector.
+
+One of these instruments was called a Collateralised Debt Obligation, or CDO.
+
+Retail debt obligations such as mortgages, credit card borrowings, car and student loans, were packaged up by the originating financial institution and sold-off as securities (essentially, stocks and "shares"). Trading away existing lending allowed banks and other financial organisations to lend much more money than they had capital reserves to cover. Banks could borrow money from each other, and from National or Central Banks, at a low interest rate, then lend it to consumers at a higher rate. The banks made profit on the difference between the interest they paid to borrow the money, and the interest they charged to lend it. It was this profit that made the CDO's attractive to buyers.
+
+http://en.wikipedia.org/wiki/Collateralized_debt_obligation
+
+A derivative is a financial instrument that is derived from some other asset, index or condition. One example of a financial derivative, is the Credit Default Swap, or CDS.
+
+When as consumers we take out borrowing from a financial institution, we are usually offered a payment protection insurance policy. In exchange for paying a regular premium over and above the repayment of the loan capital and interest, we are insured against our inability to repay the debt. In the event that we are unable to keep up our repayments due to certain agreed circumstances, the insurance policy will make the payments for us.
+
+When a financial institution loans money out to a consumer, corporation, or other financial institution, they are able to enter into a private, counter-party agreement with an insurance company such as AIG, to protect the financial institution against the risk of their customer defaulting on its payments. This counter-party agreement is known as a Credit Default Swap.
+
+It works in more or less the same way as a consumer's payment protection insurance. The loan originator pays a premium to the insurance company, and if the borrower defaults on their repayments, the insurance company will recompense the policy holder for the defaulted amounts.
+
+However, unlike consumers' payment protection insurance, the loan originator can take out as many CDS contracts as it can afford to pay premiums for. For example, if Bank A lends Company B $1,000,000, Insurance Company C might charge a premium of $10,000 a year to protect Bank A against Company B defaulting on the loan. If Company B does default, Insurance Company C will pay Bank A $1,000,000. But if Bank A has taken out 10 CDS contracts, at a total premium of $100,000, and Company B defaults, then Insurance Company C will pay Bank A $10,000,000.
+
+Furthermore, if Bank D, Hedge Fund E, and Pension Fund F are aware of the loan made by Bank A to Company B, then they also may take out as many CDS contracts as they can afford to pay premiums for, even though they are not party to the original loan and would not lose out if Company B defaults.
+
+With this situation in effect, the original loan of $1,000,000 from Bank A to Company B, could end up with as much as $100,000,000 or more (there is no limit) worth of CDS contracts riding on the back of it.
+
+It was this dynamic that brought AIG to its knees in 2008.
+
+At the end of 2008, the estimated value of all outstanding CDS contracts was $50 trillion.
+
+By the end of 2009, it was agreed that CDS contracts that offset each other could be cancelled, this brought the estimated value of all outstanding CDS contracts down to around $30 trillion.
+
+http://en.wikipedia.org/wiki/Credit_default_swap
+
+[b]5.) The Credit Crunch[/b]
+
+By 2008, after a decade of rapacious and more or less unregulated growth, the Global Banking and Finance Sector had generated a debt bubble valued at more than $1.14 quadrillion (some estimates put it as high as $1.5 quadrillion).
+
+Many individual financial institutions had outstanding loans of more than 30 - 50 times their capital reserve base. The use of exotic financial instruments such as CDO's, and the unregulated trading in "Over-The-Counter" derivatives such as CDS's, meant that originating lending facilities of around $10 - $20 trillion worldwide, were now supporting a debt pyramid that amounted to more than $1 quadrillion ($1,000 trillion).
+
+All it took was a slight shock to shatter the foundations on which this Pyramid of debt obligations and derivatives had been built (in a very short space of time) upon. In the event, this shock took the form of a cooling down of the residential and commercial property bubble in the United States.
+
+The combined value of all outstanding residential mortgages in the U.S. as of mid-year 2008, was $10.6 trillion.
+
+http://www.federalreserve.gov/releases/z1/Current/z1r-4.pdf
+
+The combined value of those mortgages classed as "Sub-prime", as of March 2007, was $1.3 trillion.
+
+http://www.msnbc.msn.com/id/17584725
+
+By May 2008, the delinquency rate for "Sub-prime" mortgages in the U.S., rose to a peak of 25%.
+
+http://www.federalreserve.gov/newsevents/speech/Bernanke20080505a.htm
+
+The total value of "Sub-prime" mortgages in default (90+ days in arrears), was around $325 billion.
+
+This can be compared to the $1 quadrillion+ figure of the inter-institutional debt that the Global Finance Sector had run-up.
+
+In other words, the idea that the Credit Crunch was caused by "Sub-Prime" mortgage delinquency was entirely false.
+
+The real reason for the Credit Crunch was the enormous pyramid of financial instruments and exotic derivatives that had been built on the back of consumer loans by banks and financial institutions.
+
+[b]6.) "Too Big To Fail"[/b]
+
+On September 15th, 2008, Lehman Brothers Bank filed for Chapter 11 bankruptcy protection. The filing marked the largest bankruptcy in U.S. History.
+
+What followed Lehman Brothers' bankruptcy was a period of extreme volatility in the World's Financial Markets as the banks debt contracts and obligations unravelled.
+
+It was at this point that the scale of the crisis and the collapsing global debt bubble really began to become clear to everyone.
+
+National Governments around the World took the decision (informed by their "advisors" and appointees from the Banking Sector) that allowing any other major financial institutions to go under would be too catastrophic for the Global Economy.
+
+A number of different options were considered by governments in the U.S., U.K. and Europe, none of which included allowing failed banks to go bankrupt, as the orthodoxy of the "Free Market" ideology dictates they should have done.
+
+Had pure "Free Market" orthodoxy been followed, every major bank and financial institution in the World would have collapsed. With the eradication of the Banking Sector, all debts, derivatives and financial obligations would have been eradicated as well.
+
+There would also have been substantial - possibly catastrophic - social and economic upheaval in the World.
+
+But "Free Market" orthodoxy was not enforced. Instead, through a combination of straight bail-outs, nationalisations, and increased circulation of currency, national governments transferred the debt that banks had run up, into the Public Sector.
+
+Governments in the U.S., U.K. and Europe borrowed money so that they could give it to the banks, to prevent the banks' collapse, and the collapse of the Global Banking Sector as a whole. This reduced the debt overhead of the banks, whilst at the same time significantly increasing the National Debts of the Governments that bailed out the banks.
+
+[b]7.) Recovery?[/b]
+
+The transferral of debt from the Financial Sector to the Public Sector had the effect of putting sticking plasters over the punctures in the Global Debt Bubble, allowing it to re-inflate. Within a year or so of being bailed out by various National Governments, the Banking Sector was turning record profits, though consumer and corporate lending remained very difficult to secure.
+
+The Banks recovered, but National Governments in the United States and Europe were now saddled with historically enormous levels of National Debt. For some smaller countries, such as Iceland (the Northern Rock of Europe), the debt burden became too much to bear, and the entire nation essentially became bankrupt.
+
+[b]8.) Portugal, Italy, Ireland, Greece and Spain[/b]
+
+For countries in the Eurozone - that is, countries whose national currency is the Euro - the situation has become much more difficult.
+
+Now that the Global Debt Crisis has curtailed the enormous profits previously garnered from exotic debt instruments and derivatives, the Global Finance Sector has returned its focus to more traditional means of generating wealth. One of these activities is predating of National Economies by betting on their failure.
+
+Because these Eurozone countries have gone deep into the red by bailing out their banking institutions, they are now vulnerable to those same banks and other speculators betting on their defaulting on their National Debts.
+
+The Markets have noticed that because countries like Greece no longer have currencies of their own, they can not devalue or print money. And under the rules of the Euro, the European Central Bank can not intervene to help a member state in difficulties. So they have begun betting on possible National debt defaults.
+
+This "betting", or taking of "Short Positions", is having the effect of increasing the likelihood of default. Other more robust countries in the Eurozone, such as Germany and France, aren't yet ready to break the Euro rules and bail out countries like Greece, because a devaluing of the Euro is actually good news for them, as it reduces the real value of their own debts.
+
+[b]9.) Summary[/b]
+
+In summary then:
+
+The Banking Sector's reckless activity caused it to be bailed out by various National Governments.
+
+Having taken on the Banking Sector's debt, those National Governments are now being predated by the Banks they saved, who are betting that certain National Governments will not be able to pay the debts that the Banking Sector couldn't pay.
+
+Without further intervention from other Nations, these countries will become economically bankrupt, leading to huge social hardship for their citizens.
+
+[b]10.) Conclusion[/b]
+
+The Global Banking System is parasitical in nature, and is conditioned to put short-term greed ahead of long-term stability and security.
+
+Therefore the Global Economy and Finance Sector is evidently in dire need of reform.
+
+What that reform should be, is open to speculation.
+
+[face_peace]

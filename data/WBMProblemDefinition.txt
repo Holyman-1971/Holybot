@@ -1,0 +1,5 @@
+Traditional governance frameworks fail because they rely on active human political deliberation, which is slow, highly susceptible to tribalism, and notoriously bad at calculating complex, interconnected systemic impacts (like environmental carrying capacities or supply chain lifecycle footprints).
+
+Conversely, purely algorithmic governance risks feeling like an opaque, dystopian technocracy that ignores human nuance.
+
+The Sandbox Engineering Challenge: Build a decentralized system that passively absorbs the operational realities of a global creator network, guarantees universal basic needs, optimizes activities based on strict ecological metrics, and retains human sovereignty through policy-level voting.

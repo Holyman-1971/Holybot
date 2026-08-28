@@ -1,0 +1,22 @@
+Project WBM: Core Structural Elements
+
+1. The Sandbox Engine
+* *Description:* A functional, interactive proof-of-concept simulation showing how a digital-first global network of creators can passively aggregate resources and manage governance without politicians. It uses automated AI networks to balance real-time ecological thresholds while unconditionally guaranteeing universal basic needs ($UBN$).
+
+2. Passive Ingestion & Ecological Accounting Engine (Layer A)
+* *Description:* The data-gathering branch that silently monitors operational telemetry (compute cycles, power grids, supply chains) via zero-knowledge proofs to calculate a real-time Ecological Valuation ($EV$) score for all network activities.
+
+3. Dual-Path Human Interface (Layer B)
+* *Description:* The communication portal between users and the system, splitting into a silent, passive path for daily background operations and a highly visual, active UI on consumer devices for high-priority policy voting.
+
+4. Agentic Execution Mesh (Layer C)
+* *Description:* The network of specialized AI models strictly bounded by human-approved policies; "Proposer Agents" diagnose system bottlenecks and generate multi-option solutions, while "Executor Agents" manage day-to-day logistics without any policy-making authority.
+
+5. Emergency Override Protocols (The Safety Valves)
+* *Description:* A three-tiered fail-safe system (Throttling $\rightarrow$ Opt-Out Deadlines $\rightarrow$ Citizen Sortition Tribunals) designed to automatically release operational pressure and stabilize critical environmental thresholds if human voting stalls.
+
+6. Staged Transition Protocol
+* *Description:* A psychological and economic roadmap designed to safely move humans from a fear-based "labor-for-survival" mindset to an abundance model by first securing basic needs, then decoupling status from monetary wealth, and finally aligning human effort with ecological utility.
+
+7. The Communication Engine
+* *Description:* A human-centric messaging framework that translates complex systemic engineering into a narrative of time liberation, common-sense legacy stewardship, and technology acting as a quiet public utility.

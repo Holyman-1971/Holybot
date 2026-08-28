@@ -1,0 +1,77 @@
+I'll raise you one higher Trigger:
+
+I predict that within 5 - 10 years, the PC will be obsolete.
+
+There! I said it!
+
+This prediction pretty much forms the core of the talks I'm giving to organisations these days. And whilst there is usually some debate about the timing, nobody is actually arguing against me.
+
+The end of the Personal Computer (and I'm including Apple Mac's, not just x86/x64 IBM-compatibles) will be driven by the twin prongs of Virtualisation and Cloud Computing.
+
+And for those few of you not familiar with those two terms (and apologies to those who are...):
+
+[b][u]Virtualisation[/u][/b]
+
+Virtualisation is the process by which instances of desktop and server operating system installs are no longer rooted to a dedicated piece of hardware.
+
+Right now, you buy your PC hardware, install your operating system software (Windows, Mac OS, Linux etc.) onto that hardware, and then install your applications and games onto it. Switch-off the power on your PC, and you can no longer access your applications, games or data.
+
+A virtualised desktop, by contrast, is not dedicated to a specific piece of hardware. Rather your desktop instance "floats" around a cluster of available hardware that comprises more than just a single machine. If the machine that your virtual desktop happens to be utilising goes off-line, the Hypervisor that manages resource allocation will move your instance to other, still available resources. Hard disk storage is shared across a Storage Area Network (SAN), so your software and data will always be available to you, as well as being much more robustly secured.
+
+Instead of requiring a power-hungry, heat-producing, wire-trailing and noisy PC sitting under your desk, all you require is a display screen, mouse, keyboard, and a very light-weight network interface function (that will ultimately be built into the screen).
+
+You don't need much bandwidth because you're only transmitting mouse movements and keystrokes; and wirelessly receiving a high-definition screen display is a piece of cake.
+
+All you need is access to a highly-available Virtual Desktop Infrastructure (VDI). A whole bunch of high-end PC's using shared secondary storage, which parcels out processing power and RAM on-demand...
+
+Which is where [b][u]"The Cloud"[/u][/b] comes in:
+
+Think about how you use electricity.
+
+When your home is connected to the local/National Power Grid, you expect to be able to draw electricity as and when you need it. In theory, you can turn every single electrical appliance on in your home, and provided your fuse box can cope with the draw, you can run everything simultaneously.
+
+Of course, you will pay for all the electricity you use, whilst you have everything turned on, but happily, if you turn everything *OFF*, you won't pay a penny.
+
+Point is that you have metered access to electricity, and you pay for what you use, rather than what you could potentially use.
+
+Now consider a "Grid" that provides computing power.
+
+Your connection need only be a single data line, so you don't even have to worry about fuse boxes and circuit breakers. But once you've connected up your all-in-one display screen/network/human-interface device, you will have available to you as much central and graphic processing power as you could ever conceivably need, as well as access to virtually unlimited RAM and disk-space to support that processing.
+
+So instead of having to fork out as much money as you can spare on an as-high-a-spec PC as you can afford, because you like to play visually-demanding and processor-intensive games; you actually buy exactly the same hardware as your mum uses to do her constant Emailing.
+
+Difference being that your mum's monthly "Computing Grid" bill will be much lower than yours, because she won't be utilising as much processing power or RAM as you do (though she may use as much or more hard disk space as you, to store all those Emails..).
+
+You will never suffer from having insufficient hardware capability to play the latest game, because additional processing power is made available to you when - and only when - you need it.
+
+And on top of all that...
+
+You will be able to walk up to any other Cloud-connected device - in a friend's home, an office, hotel, just about anywhere... - identify and authenticate yourself to it, and hey presto, have access to all your games, data, media and applications, exactly as you have it in your own home. You won't cane your friend's "Cloud Bill", as the additional resource utilisation you consume playing the latest game at their house, will be charged to your account.
+
+Through virtualisation and Cloud computing, computer and information technology finally becomes hardware independent.
+
+Consoles are already a step ahead of PC's in this respect, in that the costs and hassles of owning a console are considerably lower than that of a PC. Consoles are increasingly becoming merely thin-client devices for getting consumers onto the Computing Clouds hosted by the platform operators.
+
+We're in a transitional phase at the moment, because broadband links aren't sufficiently standardised or reliable enough to support the "Consumer Experience" necessary to increase market capture. But once the data-communications have settled down, and the platform operators have established a commercial accord, it will become increasingly irrelevant what actual platform you use, as they will all facilitate the same experience.
+
+Indeed, the race is now on between the manufacturers of gaming consoles, set-top cable and satellite receivers, televisions and personal video recorders, to develop the All-In-One solution that will give you everything you need, in a single, shiny black package.
+
+PC manufacturers, by contrast, are in the doldrums.
+
+It's been a long time since there was any profit margin in PC's.
+
+During the 1990's, there was a relentless race to increase processor speed, but once the thermodynamic limit of around 3.5Ghz was reached (around five years ago), the CPU manufacturers (essentially just Intel and AMD for PC's) had to resort to piling multiple cores on-top of each other: essentially 4-for-the-price-of-1 processors.
+
+The result of which has been that PC's now come with massively capable central processing units, which are barely utilised by common-or-garden PC users. For example, despite virtually all CPU's being 64-bit these days, there is next to no software designed to utilise the exponentially greater power of a 64-bit CPU.
+
+Except for Virtualisation software like VM-ware and Hyper-V. :)
+
+So there you go. It'll be full circle back to, essentially, the days of mainframe computing.
+
+You'll just want the facility to get you onto the Cloud (...of clouds of clouds), and you won't care or need to care what the specification of the hardware is, any more than you currently care what specification fuse box, gas or water main you are currently using.
+
+Of course there will still be the hobbyist who wants to keep tinkering with computing hardware, just as there are people who still like to tinker with classic cars. But all the computing power you will use for day-to-day purposes will be metered and on-demand; and all the software you use will be provided as-a-service.
+
+Welcome to the Brave New World. :)
+
+[face_peace]

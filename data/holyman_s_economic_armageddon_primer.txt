@@ -1,0 +1,103 @@
+Right, well, I'm conscious that discussion of the current Economic Crisis is spread out over a number of different threads (several of them created by me... Sorry 'bout that...). And I'm also conscious that the mysteries and vagaries of Economics often seem as impenetrable and they are certainly tedious.
+
+Since the current Economic Crisis [b]*IS*[/b] already impacting each and every one of us, no matter where we live in the World, and is only going to get (much) worse before it gets better; and in the Spirit of Service to our Community... I thought I'd create a quick primer to try and help everyone keep track of just exactly what the Economic "Experts" are saying in the Media; and to try and give everyone a better understanding of exactly what the future may hold for us all.
+
+I've already written at length on the Economic turbulence we are witnessing, but in a very piece-meal and somewhat eclectic fashion. So what follows is my understanding of the forces at play in our lives, how they influence and effect our lives, and what we can expect in our futures.
+
+I guess this thread is also a good a place as any to try and contain our discussions on the Economic Crisis, play the blame game, accuse me of talking out of my arse etc...
+
+So, uh, Usual Rules apply. :)
+
+As I've said before, I'm no Economics Guru, I just try to pay attention to what is going on. I'm not saying that what is written below is Gospel, and I'm more than happy to be corrected; provided such corrections take the form of criticisms of my information, understanding or conclusions.
+
+Personal criticisms of me will, as usual, be either ignored or laughed at. :)
+
+Right then..:
+
+[b]What is an Investment Bank?[/b]
+
+From Wikipedia http://en.wikipedia.org/wiki/Investment_bank :
+
+[quote][color=blue] Investment banks help companies and governments raise money by issuing and selling securities in the capital markets (both equity and bond), as well as providing advice on transactions such as mergers and acquisitions. Until the late 1980s, the United States and Canada maintained a separation between investment banking and commercial banks.
+
+A majority of investment banks offer strategic advisory services for mergers, acquisitions, divestiture or other financial services for clients, such as the trading of derivatives, fixed income, foreign exchange, commodity, and equity securities.
+
+Trading securities for cash or securities (i.e., facilitating transactions, market-making), or the promotion of securities (i.e., underwriting, research, etc.) is referred to as the "sell side."
+
+Dealing with the pension funds, mutual funds, hedge funds, and the investing public who consume the products and services of the sell-side in order to maximize their return on investment constitutes the "buy side". Many firms have buy and sell side components.
+
+The last two major bulge bracket firms on Wall Street were Goldman Sachs and Morgan Stanley until both banks elected to convert to traditional banking institutions on the 22nd of September, 2008, as part of a response to the US financial crisis.[1] Citigroup, Credit Suisse, Deutsche Bank, HSBC, JP Morgan Chase, and UBS AG are "universal banks" rather than bulge-bracket investment banks, since they also accept deposits (though not all of them have U.S. branches.)[/color][/quote]
+
+So, an Investment Bank is distinct from a Commercial Bank in that primarily, it doesn't hold regular savings deposits or manage individual current accounts. This means that unlike Commercial (or Retail) Banks, Investment Banks aren't holding members of the public's funds, but instead, raise their capital by managing the investments of corporations and organisations, and often governments.
+
+An Investment Bank will traditionally help corporations raise funds in Capital Markets, for capital investments, mergers and acquisitions. An Investment Bank makes money for itself primarily by buying and selling different financial products on behalf of its investors, profiting or losing from any differential in buy and sell prices.
+
+A "Merchant Bank" is the British English term for an Investment Bank.
+
+[b]What is (or was) the Glass-Steagall Act?[/b]
+
+The Glass-Steagall Act of 1933 was established in U.S. Law following the 1929 Wall Street Crash, during the Great Depression, by the Franklin Delano Roosevelt Administration.
+
+The most pertinent component of the Glass-Steagall Act was that it forced a separation between Commercial and Investment Banking. This made it impossible for Banks to gamble on investments with the retail deposits of members of the public; the activity that made the Wall Street Crash so catastrophic, by wiping out the savings deposits of many Americans, and creating the conditions for the Great Depression.
+
+In the 1980's, the Banking Industry began to lobby hard for the repeal of the Glass-Steagall Act, but this lobbying was resisted by the Regan and (first) Bush Administrations, who rightly observed the tremendous conflict of interests that repeal would create.
+
+However, in 1999, under the Clinton Administration, Senator Phil Gramm (R-TX) and Representative James Leach (R-IA) introduced the Gramm-Leach-Bliley Act into Congress. After passing both the Senate and the House, President Clinton signed the act into law on November 12, 1999, and finally repealed the Glass-Steagall Act.
+
+Repealing the Glass-Steagall Act enabled commercial lenders to underwrite and trade instruments such as "Mortgage Backed Securities (MBSs)" and other "Collateralised Debt Obligations (CDOs)", and establish "Structured Investment Vehicles (SIVs)" that bought those securities.
+
+Wikipedia on the Glass-Steagall Act http://en.wikipedia.org/wiki/Glass-Steagall_Act_of_1933
+
+[b]What are "Collateralised Debt Obligations (CDOs)"?[/b]
+
+Under the traditional model of lending, a Commercial Bank would lend a member of the public or private corporation money in the form of a loan, overdraft or other credit facility like a credit card. The amount of money that a Commercial Bank can lend is limited by government regulations to a strict ratio related to the bank's capital base - usually around 10:1.
+
+In other words, for every $1 of capital the Bank held in its reserves, it could lend up to $10.
+
+Co-operative or mutualised organisations, like Building Societies in the UK, loan [b]*ONLY*[/b] the money that it holds on deposit from its savings customers. So if the Nationwide Building Society holds say, £20 billion of savers' deposits, it cannot and will not lend more than £20 billion to borrowers.
+
+Following the repeal of the Glass-Steagall Act, Investment Banks found themselves in a very different position. With no restrictions on the ratio of "leverage" they could apply to their capital base, and being in a position to create and underwrite complex financial instruments, they were able to build a new market on Collateralised Debt Obligations, or CDOs.
+
+After the repeal of Glass-Steagall, Investment Banks could buy up and parcel the debt owed to Commercial Banks by its retail customers - mortgages, credit card debt, personal and corporate loans etc. The Investment Banks bought the loans from the Commercial Banks at prices determined by the risk and recovery models of those debts, and the estimated or expected cash flows the repayment of these debts would provide. These risk and recovery models were determined and rated by Credit Rating Agencies, whose classification of CDO's into different tranches of risk acted as a guide to likely repayment revenues, and the risks of default.
+
+In other words, if you took out a mortgage with a Commercial Bank, rather than that mortgage sitting with the Bank for the entirety of its duration, the Commercial Bank would sell it on to an Investment Bank. The Investment Bank would then parcel your mortgage up, along with the mortgages and loans of other people in your demographic, and create a new form of stock or share. These new securities would then be traded on the newly created CDO market.
+
+The advantage to the Commercial Banks were obvious. Having sold the loan on to an Investment Bank, the value of the loan no longer counted against the Commercial Banks Capital-Base-to-Loan-Liabilities ratio, freeing the Commercial Bank up to make more loans (which it could then sell on again, etc.).
+
+For the Investment Bank, the advantages were many fold. For the brokers who managed the transactions, there were huge bonuses to be earned, and for the Investment Bank itself, substantial underwriting and syndication fees.
+
+The result was that the CDO/MBS Securities Market ballooned from virtual non-existence in 2000, to a market trading somewhere between $40 and $60 [b]*TRILLION*[/b] by 2007.
+
+That no-one knows exactly how much the CDO/MBS Securities Market was worth at its collapse in 2007, is a sign of both the lack of regulatory oversight and the sheer complexity of Debt Derivatives.
+
+One of the reasons for this opacity, was the use of so-called "Structured Investment Vehicles" or SIVs, to hold and trade these complex Debt Instruments and Securities.
+
+Wikipedia on Collateralised Debt Obligations - http://en.wikipedia.org/wiki/Collateralized_debt_obligations
+
+[b]What is a Structured Investment Vehicle (SIV)?[/b]
+
+An SIV is essentially a Virtual Bank.
+
+Set-up and ultimately owned by actual banks, an SIV borrows money using "Commercial Paper (CP)" - short term loans or securities issued by large banks and corporations. It issues the CP at a rate close to the rate that banks use to lend money to each other, and then uses that money to buy up MBSs and CDOs. The idea then is that the SIV borrows money at short-term rates, to make long-term investments.
+
+Aside from the obvious potential for liquidity problems (short-term out-payments coming due before long-term in-payments are received), the SIV also operates without any transparency for either investors or regulators. Investors are - or were... - willing to take on this risk, because of the high rates of return promised by the SIVs.
+
+Their faith in specific SIVs was based largely on the ratings given to SIVs by Credit Ratings Agencies.
+
+Wikipedia on Structured Investment Vehicles - http://en.wikipedia.org/wiki/Structured_investment_vehicles
+
+[b]What is a Credit Ratings Agency?[/b]
+
+From Wikipedia http://en.wikipedia.org/wiki/Credit_rating_agency :
+
+[quote][color=blue] A credit rating agency (CRA) is a company that assigns credit ratings for issuers of certain types of debt obligations as well as the debt instruments themselves. In some cases, the servicers of the underlying debt are also given ratings. In most cases, the issuers of securities are companies, special purpose entities, state and local governments, non-profit organizations, or national governments issuing debt-like securities (i.e., bonds) that can be traded on a secondary market. A credit rating for an issuer takes into consideration the issuer's credit worthiness (i.e., its ability to pay back a loan), and affects the interest rate applied to the particular security being issued. (In contrast to CRAs, a company that issues credit scores for individual credit-worthiness is generally called a credit bureau or consumer credit reporting agency.)[/color][/quote]
+
+The most familiar Credit Rating Agencies (CRAs) are Standard & Poor's (S&P) and Moody's.
+
+The chief criticism of CRAs is that they essentially work [b]*FOR*[/b] the financial institutions that are providing the securities and vehicles that the CRAs are rating.
+
+CRAs are not a Government Agency, or even regulated by Government -though the September 2006 Rating Reform Act required the U.S. Securities and Exchange Commission (S.E.C.) to clarify how certain ratings were granted.
+
+Basically all you need to know about CRAs is that the events of the last 12 months have demonstrated quite clearly that the ratings given to instruments and securities in the Financial Sector, were entirely inaccurate, and played a major role in pushing up the scale of the crisis the World Economy is now facing.
+
+[b]What is a Central Bank?[/b]

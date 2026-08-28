@@ -1,0 +1,15 @@
+1. Scope & Scale (The Setting)
+
+A Digital-first global network of creators.
+
+2. The Resource Layer
+
+We are managing all physical resources and the environmental impact of all activities. Value is based primarily on how activities benefit the environment and improve environmental sustainability; and secondarily, on how activities benefit the community. Delivering the universal basic needs of all citizens is essential and takes priority over all other matters of value expenditure.
+
+3. The Human Interface
+
+The Human Interface needs to be as passive as possible. It needs to aggregate all of the information that is already being gathered by multiple systems without being dependent upon citizens actively engaging. For specifically important social issues, a separate interface would be used for those citizens concerned enough to want to register their opinion directly and expressedly. A digital UI that can be accessed on consumer devices will be required for that.
+
+4. The Decision-Making Boundary
+
+The AI Agent Network will operate and manage all process-based activities. It will propose structural solutions for humans to vote on and will only operate processes according to the policies that humans have approved.

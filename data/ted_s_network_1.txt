@@ -1,0 +1,199 @@
+[quote=[PBF]TED][image=http://img19.picoodle.com/img/img19/3/1/25/f_paintm_49802ac.jpg][/quote]
+
+According to the above picture TED, you've got DHCP enabled...
+
+If you're connecting PC's directly, using a crossover cable, I can't see how you could be using a DHCP server; but you do appear to have obtained an address lease from somewhere...
+
+Also, whilst I haven't fully scrutinised your symptoms, remember that the Network Topology (Ethernet) is different to the Network Protocol (TCP/IP).
+
+The Protocol Layer (TCP/IP) doesn't care how you've physically connected the network (crossover/switch/hub/router), it's only concerned with what host and network addresses it can see through its pipe.
+
+What I'm also not clear on, is how many network cards you have in your PC's.
+
+If you're using a crossover cable to connect two PC's directly together: how are you getting out to the Internet? Do you have a USB NIC? (Wireless?)
+
+If you [b]*ARE*[/b] using more than one network card in one (or both) of your machines, then you will need to leave the "Default Gateway" entry empty on one of the cards (I suggest the card that links to the other PC, not the card/USB device that links to your Internet router).
+
+Also, I agree fully with KoolAid: there really is no need at all to use TCP/IP v6. I would disable IP v6 on *ALL* your cards, and just work with getting full functionality from IP v4.
+
+And finally, a word about NetBIOS...
+
+NetBIOS is the protocol layer that Windows uses to allow host browsing functionality. If you're having trouble sharing drives/devices across your inter-PC cable, it could well be because Vista is trying to communicate with the XP machine using a host name, rather than a host address.
+
+It's reasonable to assume this, because you have NetBIOS enabled over TCP/IP.
+
+It's also reasonable that your Vista PC assumes that it can resolve host names to host addresses, because you've given it a DNS Server address....
+
+So the way around that is to manually enter your Vista and XP host names into the "Hosts" file on each PC.
+
+Right then, so assuming I've got a rough handle on what you're trying to do, and how you've got your PC's set-up (particularly the assumption about you having more than one network card in at least one of your machines), here's what I would do.
+
+1. [b]*DISABLE TCP/IP v6*[/b]
+
+You don't need it; there's no performance advantage; it's simply unnecessary at this moment in time. Microsoft have included the IP v6 stack, solely to try and future-proof their OS.
+
+2. [b]*CONFIGURE PC-to-Internet ROUTER NETWORK CARD(s)*[/b]
+
+This should almost certainly remain as it is configured by your ISP. I.e. providing DHCP leases to anything that you plug into it.
+
+Now, a salient point here is that your ISP's router is (by the looks of the picture you provided) supplying IP addresses with a [b]192.168.0.x[/b] scope. Because of this, and because I'm assuming you have more than one network card in at least one of your machines, you are going to need to set-up the TCP/IP network you use to directly link your PC's, with a different network address.
+
+We'll use [b]192.168.1.x[/b]
+
+So, with your PC('s) picking up DHCP IP addresses from your ISP's router, they should both have IPConfigs that look like..:
+
+ADDR: 192.168.0.81
+
+Subnet: 255.255.255.0
+
+Gateway: 192.168.0.1
+
+DNS1: (Should be a public IP address,eg: 195.216.16.129)
+
+DNS2: (another public IP address, eg: 195.216.16.65)
+
+3. [b]*CONFIGURE PC-to-PC NETWORK CARDs*[/b]
+
+Hostname: TED-VISTA
+
+ADDR: 192.168.1.1
+
+Subnet: 255.255.255.0
+
+Gateway: [b]*LEAVE BLANK*[/b]
+
+DNS1: Use same address that your ISP's DHCP server provides
+
+DNS2: Use same address that your ISP's DHCP server provides
+
+And
+
+Hostname: TED-XP
+
+ADDR: 192.168.1.2
+
+Subnet: 255.255.255.0
+
+Gateway: [b]*LEAVE BLANK*[/b]*
+
+DNS1: Use same address that your ISP's DHCP server provides
+
+DNS2: Use same address that your ISP's DHCP server provides
+
+4. [b]*CONFIGURE "HOSTS" FILE*[/b]
+
+On both your XP & Vista machines, navigate to:
+
+c:\Windows\System32\Drivers\etc
+
+In that directory, you will find a number of files, but the key one you are after is called "Hosts" (no file extension).
+
+Open this up in Notepad, and it should look something like this:
+
+[quote] # Copyright (c) 1993-2006 Microsoft Corp.
+
+#
+
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+
+#
+
+# This file contains the mappings of IP addresses to host names. Each
+
+# entry should be kept on an individual line. The IP address should
+
+# be placed in the first column followed by the corresponding host name.
+
+# The IP address and the host name should be separated by at least one
+
+# space.
+
+#
+
+# Additionally, comments (such as these) may be inserted on individual
+
+# lines or following the machine name denoted by a '#' symbol.
+
+#
+
+# For example:
+
+#
+
+#  102.54.94.97  rhino.acme.com  # source server
+
+#  38.25.63.10  x.acme.com  # x client host
+
+127.0.0.1  localhost
+
+::1  localhost[/quote]
+
+The only two active entries (don't have "#" at the beginning of the line) in the file should be the bottom two, which define 127.0.0.1 as the IP v4 local host address, and ::1 which defines the IP v6 local host address.
+
+You just need to add entries for your two PC hosts:
+
+192.168.1.1  TED-VISTA*
+
+192.168.1.2  TED-XP*
+
+(*- Or whatever you've actually called your machines...)
+
+Save the amended HOSTS files, and you should be good to go.
+
+You can test protocol layer connectivity by using the PING facility from the command line:
+
+ping 192.168.1.1 (from the XP machine)
+
+ping 192.168.1.2 (from the Vista machine)
+
+You should receive 4 x "Reply From: 192.168.1.x ..." on each machine.
+
+Once you've confirmed connectivity at the TCP/IP layer; you can check hostname connectivity by typing:
+
+ping TED-VISTA
+
+ping TED-XP
+
+Same results should come back.
+
+...
+
+Now, all the above said TED, I think you might be going around the houses a bit, and making a rock for your own back. Running multiple NIC's in client machines is always a bit fraught.
+
+If both your machines have (or are supposed to have) Internet connectivity, through the same IP router/hub; then they are already connected on the same network topology. You really don't need the crossover cable/direct connection to link them up.
+
+If they can both get a DHCP lease from your ISP's router/hub, then you just need to fix the addresses as static, and then put the appropriate entries in each machine's HOSTS file.
+
+So, take just one machine that has Internet connectivity, and you should see an IPCONFIG that looks something like:
+
+Hostname:  TED-XP
+
+Address: 192.168.0.81
+
+Subnet: 255.255.255.0
+
+Gateway: 192.168.0.1
+
+DNS1: 195.216.16.129* (or similar public/ISP DNS server address)
+
+DNS2: 195.216.16.65* (or similar public/ISP DNS server address)
+
+All you need to do is configure the NIC properties so that instead of DHCP, it uses a static configuration that is exactly the same.
+
+And on the other machine, it will be identical, except that the address will be different, probably one higher, e.g. 192.168.0.82
+
+Since both machines will be using the same router/hub, they will be able to see each other. If you want NetBIOS name resolution to enable a lot of the Windows peer-to-peer networking facilities, you just need to add the IP address:hostname resolution in the HOSTS file.
+
+And finally, check that Windows Firewall is configured to allow the correct exceptions to permit whatever peer-to-peer networking functionality you are after.
+
+For example, Windows Firewall disables the ICMP/"Ping" port by default.
+
+Best thing to do would be to disconnect your ISP router/hub from the phone line it uses to get out to the Internet, then disable the Windows Firewall on both machines. Get everything working and tested, before turning the Firewall back on. Once you're happy that it's functional, turn the Firewalls back on, and make the necessary exceptions.
+
+Then plug your ISP's router back into the phone line, and re-connect to the Internet.
+
+It does sound rather like you're making everything a lot more complicated than it needs to be. The particularly tricky bit is using more than one network card in a Windows client machine. If you [b]*MUST*[/b] do this, then make sure that you only configure a default gateway on just one of the network cards - not both.
+
+Good luck!
+
+[face_peace]

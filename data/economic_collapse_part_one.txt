@@ -1,0 +1,91 @@
+Let's see if I can keep this clear (can't promise I'll be succinct though!).
+
+This situation really is at the heart of everything that is fucked up with Human Society at the moment; and as Hoff recently described in his Economics 101 thread, the whole situation is deliberately obfuscated and made to seem as impenetrably arcane as possible.
+
+But I really do think it is tremendously important that as many people as possible understand the situation. Not just because if more people understood the situation we might begin to be able to change it; but also because it is a situation that directly and negatively impacts *EVERYONES'* lives.
+
+Alright then, Greek Tragedy:
+
+[b]Part One: Olbos[/b]
+
+Around the turn into the New Millennium, three distinct but equally significant events occurred.
+
+The first was a political event: legislation that was introduced during the Great Depression (early 1930's) to separate investment and commercial banking operations separate was repealed.
+
+Beginning in the United States with the [url=http://en.wikipedia.org/wiki/Gramm%E2%80%93Leach%E2%80%93Bliley_Act]Gramm-Leach-Bliley Act[/url], and soon copied by nations hosting the other major financial trading centres of the World, prohibitions were lifted on single organisations operating as any combination of an investment bank, commercial bank, and insurance company.
+
+The removal of these barriers meant that for the first time since the 1929 Wall Street Crash, financial institutions were able to merge their retail business with their investment/trading operations. Amongst many other activities that this enabled, was the facility for financial institutions to use debt owed to them by retail customers (residential mortgages, small business loans, credit card balances &c), as collateral for the institution's own borrowing requirements.
+
+To illustrate:
+
+If a Main Street/High Street Bank had loaned 1,000 private citizens enough money to buy a house each, the Bank could cite those outstanding loans as a collateralised income stream for the bank. The bank could (and did) say:
+
+[i]"We possess title to 1,000 homes, each worth say, £/$250k each - that's £/$250 million worth of property. And we retain effective ownership of those properties, until those private borrowers have repaid the money (with interest) that we have loaned them. It is a No-Lose situation: we either have the loans repaid; or we get to keep the property on which those loans are secured."[/i]
+
+On this basis, that Bank could approach lenders higher up the loan-chain and say:
+
+[i]"We have £/$250 million in collateral here (1,000 x £/$250k loans/properties), we would like to borrow money against that collateral."[/i]
+
+And just as a mortgage borrower might put up a 10% deposit of £/$25k in order to get a loan of £/$250k; the bank seeking higher borrowing would use the £/$250 million collateral as a 10% deposit on a loan of £/$2.5 billion.
+
+And also as with residential mortgage borrowing, the Investment Banks making the £/$2.5 billion loans would say:
+
+[i]"We possess title to 10 £/$2.5 billion loans, each secured against the assets of the Main/High Street Bank that has borrowed this money. It is a No-Lose situation again, because either the Main/High Street Bank keeps up the repayments on their £/$2.5 billion loan, or we take possession of that Bank, and all of its assets.[/i]
+
+And so on, up the steps of the Debt Pyramid, until it reaches the [url=http://en.wikipedia.org/wiki/Lender_of_last_resort]"Lender of Last Resort"[/url], which would be the Central (National) Bank of the country in which the Investment Bank's operations were based. And with all due consideration of [url=http://en.wikipedia.org/wiki/Moral_hazard]"Moral Hazard"[/url], that Central Bank could (and can) just print money, as and when it needed/desired to loan it out.
+
+That's the Central/Investment/Commercial Banking System in a nutshell. And it is important to understand that dynamic, as it plays a central role in what follows.
+
+The second significant event that occurred at the Millennium was the bursting of the [url=http://en.wikipedia.org/wiki/Dot-com_bubble]"Dot-com Bubble"[/url]. Just the latest in a long line of speculative investment bubbles in the Stock Market; a line that stretches all the way back to the collapse of [url=http://en.wikipedia.org/wiki/South_seas_bubble]"The South Seas Bubble"[/url], in 1720.
+
+The collapse of the Dot-Com Bubble caused the loss of around $5 trillion in the market value of companies (in the U.S.), between March 2000 and October 2002. In more normal circumstances, the collapse of this speculative bubble and the ensuing aftermath should have been allowed to run its course. There would have been a substantial recession, lasting "x" number of years; there would have been high unemployment whilst the Economy adjusted to the collapse of the bubble; and there would have been a substantial depreciation in the value of traditional social assets, such as house prices.
+
+A somewhat traumatic event then.
+
+But slap bang into the middle of the mess - figuratively and literally - slammed the third significant event of the period: the terrorist attacks of September 11th, 2001.
+
+And that was a very traumatic event.
+
+These three events - the removal of Depression-Era Banking Controls; the collapse of the Dot-Com Bubble; and the 9/11 attacks - combined to create a Perfect Storm of economic, social, and therefore political circumstances.
+
+The response of the Presidential Administration of George W. Bush to the two successive traumas of the Dot-Com collapse and the 9/11 attacks, was to encourage/pressure/order the (notionally independent) Federal Reserve Bank to lower Central Bank lending rates to virtually zero - at least to below the rate of inflation. This created in effect, a free supply of money to help America forget its traumas.
+
+If you can borrow money at an annual interest rate that is lower than the annualised inflation rate: when you come to repay the monetary amount that you originally borrowed, you will be paying back less than you borrowed. This because the $100,000 you repay on 31st December, is worth less than the $100,000 you originally borrowed on 1st January.
+
+And if you take the money you have borrowed at an interest rate below the rate of inflation, and loan it out at an interest rate that is *ABOVE* the rate of inflation, then you will make yourself a whole lot of money, at absolutely no risk to yourself.
+
+Investment Banks *CAN* borrow money from a Government/Central Bank at interest rates lower than the inflation rates, if that is the interest rate set by the Government and/or Central Bank. And Investment Banks *CAN* then loan that borrowed money to Main-Street/High-Street banks at an interest rate that is above the rate of inflation. And those Main-Street/High-Street banks can then loan the money they have borrowed from the Investment Banks, to private/retail customers, and charge those customers a higher rate of interest than the rate being paid to the Investment Banks.
+
+The Investment Banks and the Main-Street/High-Street Banks make their money then, at no risk to themselves, by charging on the money they lend, a higher interest rate than they are paying on the money that they borrow.
+
+And this is even easier and more lucrative, if an Investment Bank's operations are combined with those of a Main-Street/High-Street Bank; which thanks to the repeal of that Depression-Era legislation at the turn of the Millennium, was made entirely possible. Borrowing at Central Bank interest rates, and loaning at Main-Street/High-Street Bank interest rates, created an awful lot of money for those organisations able to do it.
+
+The most difficult part of the operation was finding enough Main-Street/High-Street customers to borrow the money at the higher rate. Because unless you had people paying the higher rate to borrow the money you had borrowed at the lower (Central Bank) rate: you couldn't make any money for yourself.
+
+And finding people willing to borrow money has never been all that difficult, especially if not too many questions are asked about their ability to repay.
+
+Particularly in the shadow of a traumatic attack on a Society's geographic territory and cultural identity; and particularly when that Society *SHOULD* have been experiencing a recession.
+
+It can be - and is - argued that the off-shoring of many of the lesser-skilled jobs that have arisen as a result of technological advances in the Digital Economy was a result of the collapse of the Dot-Com Bubble. So there isn't a lot of point arguing that the off-shoring of jobs that could or should have gone to lower-middle class citizens was a fourth significant Millennial event. If the transformation to a "Digital Economy" had been the "Dot-Com Surge", rather than a temporary speculative Bubble, perhaps all the jobs created by the Digital Economy may have stayed on-shore. Who knows?
+
+What can be said - what can be empirically-measured - is that during the years that followed the collapse of the Dot-Com Bubble and the 9/11 attacks, there was no great expansion in the number of jobs available to the Middle Classes, and that wages did uniformly stagnate.
+
+But the negative effects of wage stagnation and rising unemployment were not experienced by the majority of Society's citizens, because of a massive expansion in the availability of credit borrowing. This as a result of Central Banks' historically, artificially, and as it turned out, recklessly low interest rates; and the desire of those institutions that could borrow money at Central Bank rates, to loan that borrowed money out at higher Main-Street/High-Street rates.
+
+There *WAS* an up-tick in the number of jobs available in those areas of the Economy driven by Consumer Demand. Many people received (and accepted) uninvited raises to the credit limits on their credit cards. There was aggressive marketing of small loans for the hire-purchase of consumer goods like furniture and cars. And, of course, there was a total explosion in the number of mortgage applications being approved for the purchase of residential and "Buy-to-Let" homes.
+
+Mortgage approvals that, we now know to our cost, had little or nothing to do with an applicant's financial qualifications for or ability to pay that loan.
+
+And this of course caused the value of all those properties being bought with that easily-sourced credit to sky-rocket.
+
+As previously described, the reason for this massive expansion of retail/consumer debt was the necessary requirement of an under-pinning, higher-interest-rate-paying loan; this in order for Finance Institutions to be able to make money on the funds those institutions could (even more easily than the retail customers) borrow from the Central Banks.
+
+Money (in the form of credit) was easy to come by; property values were going through the roof; and everyone was spending money like there was no tomorrow.
+
+Recession? What recession? Trauma? What trauma?
+
+And I think that's probably an appropriate juncture to pause, and declare "End of Part One"!
+
+"Part Two" follows immediately in the next post.
+
+:>_

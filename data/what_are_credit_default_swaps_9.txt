@@ -1,0 +1,67 @@
+[quote=JFitch][color=red]The AIG mess was brought about, I believe, by them giving loans to people who couldn't pay them (there were several topics about this months ago). After losing a lot of money, and their credit rating being down-graded, they sank like a rock and the government stepped in to bail them out. I believe it was a mixture between government interference in the past decades as well as bad lending practices that created the problem for AIG. The government should've let them go bankrupt and try to get themselves out of the mess they were in, or die off. Giving them money isn't the way to go.[/color][/quote]
+
+Just to be clear JF, AIG is an insurance company, not a bank.
+
+The insurance business that it became heavily involved in over the last eight years or so, was Credit Default Swaps.
+
+I created a thread about Credit Default Swaps not so long ago, so I won't go into great detail again, but just to quickly recap:
+
+A Credit Default Swap is a private counter-party deal between two parties. It is essentially an insurance policy taken out to cover losses arising from a borrower defaulting on their credit repayment.
+
+Bank A lends money to Person B.
+
+Bank A then goes to Insurance Company C and takes out a policy that will mean that if Person B fails to repay the money borrowed from Bank A, then Insurance Company C will pay Bank A the money instead.
+
+So let's say that Person B borrows $250,000 from Bank A. Insurance Company C then charges Bank A $2,500 a year for the duration of the loan. If at any time during the loan term, Person B defaults on their repayments, Insurance Company C will pay Bank A $250,000.
+
+Sounds straightforward enough, right?
+
+OK, well here's what also happens with Credit Default Swaps:
+
+Bank A can take out more than one insurance policy on the single loan to Person B.
+
+Bank A can, in fact, take out as many CDS insurance policies as it can afford to pay the premiums on.
+
+Bank A could take out 100 CDS insurance policies on the loan it has made to Person B, and Insurance Company C would charge Bank A $250,000 for the privilege of doing so.
+
+And if Person B defaults, the Insurance Company C will have to pay $250,000,000 ($250 million) in total to Bank A (even though the base loan was only $250k).
+
+Sounds a bit reckless, doesn't it? Sounds like a recipe for Economic Disaster in fact.
+
+Well it doesn't stop there.
+
+Because [b]*ANYONE*[/b] could take out a CDS insurance policy on that original loan between Bank A and Person B. Banks D, E, F,  Hedge Funds G, H, I, and Structured Investment Vehicles J, K, and L just needed to be aware that Bank A had loaned money to Person B, and then they too could go to Insurance Companies C, M, N & O, and take out their own CDS insurance policies on that loan: as many insurance policies as they could afford to pay the premiums on.
+
+And of course, it doesn't take an Economist to figure out that all those people with CDS insurance policies had a [b]*VESTED INTEREST*[/b] in Person B defaulting on the original loan to Bank A; they don't make any money themselves, [b]*UNLESS*[/b] Person B defaults on the loan.
+
+It is for this reason that whilst the total value of all mortgages outstanding in the U.S. (not just "Sub-Prime mortgages) is just $14 trillion, whilst the market for Credit Default Swaps built on the back of these $14 trillion of Mortgage Backed Securities (MBS) is [b]*$70 TRILLION*[/b].
+
+All that was needed to inflate this CDS Bubble - and it went from just over $1 trillion in 2001 to over $70 trillion by 2007 - was enough willing saps to sign-up to an originating loan. And the more risky and less likely to repay those saps were as borrowers, the better.
+
+It's difficult to be precise, because the CDS market was wholly unregulated. Credit Default Swaps are (or were) private contracts between two parties, so were not traded on any open, regulated market, and were frequently moved off the Balance Sheets of publicly traded companies into Structured Investment Vehicles (SIV's) that couldn't be scrutinised by the Securities and Exchange Commission (SEC).
+
+Now you might ask, how could the insurance companies like AIG be so fucking stupid? Well, thing is, as far as the insurance companies were concerned, the CDS policies they were issuing were being issued on Triple-A rated securities; in other words, loans that were highly [b]*UNLIKELY*[/b] to default. This because the securities rating agencies like Standard & Poor's were working in concert with the banks creating Mortgage Backed Securities (MBS's) and Collateralised Debt Obligations (CDO's), to rate junk securities as Triple-A.
+
+And [b]*THIS*[/b] was justified because the MBS's and CDO's were priced "Mark-to-Model", rather than "Mark-to-Market". This means that these security derivatives were priced by the originating banks' own internal business model estimations of what they [b]*SHOULD*[/b] be worth; rather than what the Market would actually pay for them.
+
+"Friends of Big Business", like yourself JF, would like to pin this entire Economic Catastrophe on the feckless, "Sub-Prime" borrowers who, in reality, are guilty of nothing more than dreaming that they could actually live in a home of their own.
+
+The actual delinquency rate on "Sub-Prime" mortgages in the U.S. is only about 20%, and was overtaken by delinquency on "Prime" mortgages last August (translation: America's affluent middle-classes are actually a lot more feckless than America's working-class, who it has turned out to everyone's surprise, are actually quite honest and proud when it comes to "paying back what they owe").
+
+But even taking into account the overall delinquency rate (of about 20% and rising) on America's $14 trillion worth of mortgages, it's a drop in the ocean compared to the £70 trillion CDS market, and more than [b]*$500 TRILLION*[/b] in other Over-the-Counter (OTC) financial derivatives.
+
+It was the sharks in the Finance-Insurance-Real-Estate (FIRE) that built this toxic shit heap of debt and credit derivatives, not the poor saps who barely had any conception of the implications of their own mortgage, let alone the complex Pyramid of opaque and arcane debt instruments and counter-party agreements that was going to be built on top of their loan.
+
+This really isn't an ideological, political or social issue; it's a practical, economic and moral matter.
+
+It's all a bit late in the day to be incorrectly pointing fingers at the working class, or even correctly pointing fingers at politicians of [b]*EVERY*[/b] party and the financiers they work for.
+
+As much as it would seem just to let a company like AIG just sink beneath the waves of shit that it helped create, as we saw when Lehman Brothers was allowed to go bankrupt, it just isn't as simple as that.
+
+The same people saying let the failed banks and insurance companies go bust, are also saying that those individuals who recklessly and fecklessly borrowed beyond their means, to fund lifestyles they really couldn't afford, should be held to account for their irresponsibility.
+
+But if the banks and insurance companies are allowed to collapse, the Entire Economy will be wiped out, taking [b]*EVERYONE'S*[/b] debts [b]*AND*[/b] savings and investments with it.
+
+And there's a lot of people who just don't relish the prospect of that happening.
+
+[face_peace]

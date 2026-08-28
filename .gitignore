@@ -1,0 +1,15 @@
+# Local environment and API keys (DO NOT COMMIT)
+.env
+.streamlit/secrets.toml
+
+# Local vector database
+chroma_db/
+
+# Chat log output
+logs/
+
+# Python virtual environments & cache
+venv/
+.venv/
+__pycache__/
+*.pyc

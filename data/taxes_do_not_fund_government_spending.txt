@@ -1,0 +1,247 @@
+Right. I ummed and ahhed about supplying y'all with this particular essay, on account of it being both an excellent demystification of the Monetary Dynamic that blights the vast majority of our lives, but also a very lengthy piece. There's also a heavy ideological element (starting with the polemic's title, and continuing through some Marxist Theory), which I think rather clouds the important and objective points being made.
+
+In the end then, I've opted to spare those suffering from TL;DRophy, here:
+
+[spoiler][i]January 22, 2018[/i]
+
+[b][size=150]Behind the Money Curtain: A Left Take on Taxes, Spending and Modern Monetary Theory[/size]
+
+[i]by Jim Kavanagh [/i][/b]
+
+[img]https://uziiw38pmyg1ai60732c4011-wpengine.netdna-ssl.com/wp-content/dropzone/2018/01/Screen-Shot-2018-01-21-at-9.13.32-PM.png[/img]
+
+[u][b]Taxes do not fund government spending.[/b][/u]
+
+That's a core insight of Modern Monetary Theory (MMT) whose radical implications have not been understood very well by the left. Indeed, it's not well understood at all, and most people who have heard or read it somewhere breeze right past it, and fall back to the taxes-for-spending paradigm that is the sticky common wisdom of the left and right.[1]
+
+This, despite the fact that the truth of the proposition is obvious if you think through just a few steps about the process of money-creation. What makes it hard to see is the dense knot of conventional theory and discourse in which we are entangled, and which seems impossible to cut as cleanly as MMT suggests.
+
+But the discussion around the newly-enacted Republican tax bill has brought the issue of tax policy to the forefront again, and it's time for the left to realize how fundamentally wrong that common wisdom is, and how continuing to argue within the phony terms of the taxes-for-revenue paradigm occludes and reproduces a persistent reactionary fiction regarding what taxes are for.
+
+[b]Housebound[/b]
+
+The argument of the common-wisdom economic paradigm is that the government must collect taxes (or borrow money-we'll get to that) to spend on whatever programs it wants to fund. In this paradigm, the government extracts money from an external, economically prior source, and uses it to pay for government programs. For both the left and the right in this paradigm, taxes are for funding government spending: money first flows into the government through taxes collected, and is then spent into economy in various programs and purchases. The arguments that ensue are over how much money to collect in taxes, from which sources, and which government programs to fund with the money collected.
+
+Most leftists take their stance within this paradigm. Bernie Sanders, for instance, says his Medicare-for-all plan would "raise revenue" from various taxes such as income and capital gains, and from limiting "deductions for the rich." Dean Baker suggests a 4% increase in payroll taxes to "fully fund" Social Security and Medicare.
+
+These kinds of analyses, typical of the left, make points that are helpful in immediate political fights, and they're also grounded in the conventional paradigm about, money, taxes, and government spending. That paradigm not only informs most thinking-whether conservative, liberal, or left-radical-about money in our society, it also informs the legal and institutional policy framework. It's the paradigm of the household.
+
+We're comfortable with the household paradigm because it reflects everyday reality. The household has to get money from somewhere to spend it. It's obvious. But, also obvious, the household (or business or state) does not create money. That teensy little huge fact makes the household-government finance analogy wrong and wildly misleading. Unless we take that fact as of no significance-And how could we?-we need another paradigm. Analyses and critiques-no matter how radical-of government financing as if it worked like household financing are based on false premises, and false premises lead down meandering dead-end paths to wrong conclusions.
+
+We have to reject the household analogy whenever it comes up from any source, including our own minds, where it will sneak in. Most leftists, I'm afraid, do end up assuming it, and ignoring the huge little fact that it cannot be right. We need another paradigm, one that's more truthful and therefore opens more effectively radical paths.
+
+Where to start? Well, think of how different things would be-the different questions and problems and possibilities you would face-if your household could create money.
+
+What difference does it make politically? One can say that Social Security can be fixed by raising payroll taxes just a bit more, or one can say that Social Security can be fixed by typing a few keystrokes. Which discourse is more cogent? Both fixes might "work" in some sense, but which analysis perpetuates mistaken, obfuscating, and conservative premises and structures, and which one reveals the true conditions and radical possibilities of, the way government financing really works? To even see the second alternative, we have to abandon the household paradigm.
+
+Nobody wants to find that the framework of critique they're so comfortable with, and good at, is based on false premises, but leftists should at least take a look. I may make some mistakes here, but I'll give it a try.
+
+[b]Premises, Premises[/b]
+
+For me. MMT has demonstrated persuasively that the entire conventional taxes-for-revenue problematic, as an economic paradigm, is a crock, a fiction, a set of mystifications, which needs to be swept away-and replaced with a paradigm that opens more radical possibilities, and has the advantage of being true. Yeah, it's like that. As the quote attributed to Henry Ford goes: ""It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning."  Leftists would be foolish to think either that Henry did not know of which he spoke, or that they should not try to figure out what he meant.
+
+A whole set of hand-wringing questions about taxes, spending, debt, and deficits disappears, simply vanishes, in the light of the singular, indisputable fact-MMT's first premise-that the federal government, and only the federal government, creates money.
+
+Since Nixon ended the gold standard in 1971, the dollar has been a fiat currency and the United States has been a Monetary Sovereign.[2] This means that dollars are now created by the federal government, with no concern for representing any physical commodity.[3] And the federal government can create as many dollars as it wants, as numbers in electronic account ledgers, without "collecting" any dollars in advance. Whatever economic reason there is to limit the amount of dollars the government creates (we'll discuss that below), it is not because the government hasn't previously "collected" enough of them in taxes (or fees, loans, etc.).
+
+Political and legal conditions may be imposed-and they should be the focus of interrogation and critique-but that is not a matter of economic necessity.
+
+As a matter of economic logic, taxes do not precede and provide the money for, government spending; government spending precedes and provides the money that is later collected in taxes. It's not "tax and spend"; it's "spend and (then) tax." That's the sequence. Every dollar paid in taxes is a dollar that was created by government authority.[4] There is no place else it could have come from.
+
+With a fiat currency, spending and taxing are economically separate, parallel activities. The government does not need taxes to spend; it needs a decision. Not taxes, but the political will of the government, is the source of government spending. The government can create money for any program it has the political will to fund, whether healthcare or nuclear weapons, prior to and apart from, collecting any taxes. Of course, it makes all the difference where the spending goes. who decides that, and by what mechanism. And that depends on the character of the "government," the extent to which it is the instrument of a democratically-empowered citizenry or off the ruling class oligarchy. Those are exactly the questions MMT brings to the fore.
+
+So, if taxes are not a revenue source on which government spending depends, what are they for?
+
+Taxes are that portion of the money the government has spent into the economy, and upon which the economy depends, which the government withdraws for reasons that have nothing to do with needing to collect money to spend.  Economically, they are for controlling inflation, and socio-politically, they are for promoting valued public policies-the first of which, for the left, is to prevent gross inequality.
+
+Limiting inequality, not revenue collection, is precisely what taxation is for, the core progressive purpose of taxes-including a graduated income tax and the crucial estate tax-in a capitalist society. (And we are here talking about a capitalist society.)  As Piketty and other have shown, it is probably the single most effective instrument of "non-reformist reform" for achieving that purpose.
+
+To be crystal clear (because it sneaks in), when I say that taxes are used to "prevent gross inequality," that does not mean "to fund social programs"; it means, simply and elegantly, to prevent people from becoming too rich.
+
+Again, with a fiat currency, spending and taxing are separate, parallel activities. Though the conventional paradigm has us talking about it this way, taxes do not take money out of one activity in order to pay for another. Money can and should be spent on healthcare, apart from any taxation. Highly taxing the rich does not take extra money from them in order to "pay for" healthcare. It takes extra money from the rich in order to take extra money from the rich, a social good in itself.[5]
+
+Surtaxing the rich is a social good from a rational economic perspective because it takes money out of the economy to control inflation and prevent wealth hoarding and speculation, and surtaxing the rich is certainly a social good from a progressive perspective because it limits inequality
+
+So, surtaxing the rich does not transfer funds directly to pay for another activity like healthcare, but it does help configure the money supply on a macro level to enable more social spending. It averts the inflation that would occur if both a lot of spending on healthcare and the infinite appropriation of money by individuals were tolerated. Taxes don't raise funds; they do help control the money supply. Taxes don't "pay for" anything, but are they are a means to "un-pay" certain actors.
+
+Indeed, in regard to wealth inequality, taxes can and should be used to create an income ceiling that is either absolute or becomes asymptotically more difficult to approach-thus both controlling inequality and eliminating the excuse of inflation as an impediment to robust progressive social policies. Is inflation your big fear? Well, how better and simpler to control inflation than to take dollars back from those who have an excess of them?
+
+What does the government do with the taxes it collects? Nothing. What's done is done, in spending. A dollar the government takes-the number it transfers from an account-in taxes cancels out a dollar previously issued-the number it had transferred to that external account. The result is zero. The dollar disappears, is zeroed out. That's how taxes control inflation.
+
+On the spending end, the "disciplining" economic consideration for avoiding inflation is to assure that the amount of money the government creates correlates with the value that economic activity in society creates. It's an error to confuse money, which only the government creates, with value, which is created in the social economy. Monetary policy should be designed to facilitate the exchange of values produced, and encourage the production of new value. Money circulates as oil in the gears of the productive economy. Too much, and it floods the process; too little, and the process seizes up.
+
+The decision about how much money the government should spend into the economy does not need to be based on a revenue forecast-what the Congress uses, through the Congressional Budget Office (CBO)-but on an analysis of the productive forces (including labor and capital) that can be put to use generating useful (and in capitalist terms, "tradeable") goods and services. As Ellen Brown says: "Money can be added to the point of full productive capacity (full use of workers, supplies and machines) before adding more will drive up prices." This is, in fact, the kind of calculation the Federal Reserve Bank does to control the money supply via interest rates. The Bank knows how it works.
+
+It's not bad to think of all this as a macro social version of the kind of point system we're all familiar with. When you do, a few things become clear: A) Frequent flier "miles" aren't anything but numbers, points in a game created and controlled by the airline. B) Delta can generate as many points as it wants. The amount of points Delta issues should be sensibly correlated with the amount of seats in the planes, but the company doesn't "collect" them from anywhere, and can't run out of them. C) Any conditions on who receives them and how are entirely Delta's decision, subject to revision in accordance with its policy imperatives at any time. And D) Who needs 50 billion frequent flier miles? Delta can put any limit it wants on the points an individual can collect, in order to assure a fair and rational system that won't piss off its customers, and gum up its own business operations by allowing a few families to end up taking 90% of the seats on every flight.
+
+The United States government can control its points-dollars-at least as much as Delta does, and it should.
+
+[img]https://uziiw38pmyg1ai60732c4011-wpengine.netdna-ssl.com/wp-content/dropzone/2018/01/kitchensink.jpg[/img]
+
+[b]Debt Sealing[/b]
+
+This brings up another core insight of MMT, a corollary of the fact that the government creates money to spend into the economy: The government's loss is the economy's gain. The government's deficit is equal, to the penny, to our surplus-the amount of dollars the government has spent into and left in the economy. With due consideration for how the "government" and "we" are constituted-A political question that MMT makes increasingly visible as the important question underlying the economics!-the government's deficit is "our" net savings after taxes, dollars that haven't been zeroed out, points we can use to buy our seats. As Robert Bostick puts it, in a scathing critique of Paul Ryan's deficit hawkery:
+
+[quote]It's essentially interest-free money for us to spend as we choose. That's why the financial sector/commercial bankers hate deficit spending. Americans benefit from deficit spending and therefore, don't need to go into debt to maintain living standards.[/quote]
+
+Our surplus from deficit spending is what keeps the economy growing... When Ryan and company tell us they're going to cut the deficit, it automatically means they are going to reduce the amount of interest-free money available to us. That eventually will, in short order, force us to use our savings, retained earnings or borrow from banks at interest just to maintain current spending.
+
+Note that it's not the government deficit that's pernicious here, but citizens' indebtedness to the banks, which grows in inverse relation to the government deficit. Too little government deficit makes for too much citizens' debt.
+
+This is why "austerity" policies are ridiculous, self-defeating, and immensely harmful. This is why the last thing we want is for the government to have a "balanced budget" policy, let alone for the government to run a surplus, which would be our deficit. For a healthy, growing economy, the government should avoid retrieving as much in taxes as it has spent into the economy. And there is no economic need to do so, or to borrow money to make up the difference. The government spends more than it gets back? So what? Some dollars haven't been zeroed out. To whom does it owe those zeros?
+
+Similarly, Federal government debt is a mythical problem. First of all, all Federal debt is in dollars, which the government-absent unnecessary, politically-imposed constraints-can generate at will. The government can never run out of money to pay its dollar-denominated debts, any more than it can run out of numbers. Furthermore, a lot of the so-called debt-almost 30% of it-is money the Federal government owes to itself. The largest chunk, in fact, is the $2.5 trillion owed to the Social Security Trust Funds.[6]
+
+But the kicker is that all that money owed is on deposit in accounts at the Fed. When you take a loan from the bank, you take the money and spend it. When the government takes a loan from China, it takes the money and deposits it in an account at the Fed. It is not used for spending. It just sits there, numbers in an electronic ledger. (It's not a household, and they know how it works!). So, all the principal amount of every loan could be paid off instantly by being transferred from one account to another, if there were no political or legal constraints on doing so, As Bostick says:
+
+The FRB [Federal Reserve Bank] could pay off 100% of all federal debt tomorrow, simply by transferring already existing dollars from T-security savings accounts to checking accounts.
+
+If you are a lender to the federal government, your money is all there, right in your T-security account at the FRB. All of it. Every cent. So is China's money, Europe's money, Japan's money [the Social Security Trust Funds' money]- every one of those 12 trillion dollars of federal "debt," all sit safely in FRB T-security accounts.
+
+And despite what the fear mongers tell you, you don't owe a penny of it. Nor do your children, nor do your children's children. The FRB owes it all, and it's all there in T-bill accounts.
+
+So, yes, Social Security could be "fixed" with a few keystrokes (or a two-trillion dollar coin). It doesn't require an argument about whether and how much to raise payroll taxes.
+
+Unless it does, because the ideological and political and legal and institutional structure says it must.
+
+[b]Jekyll and Hide[/b]
+
+Of course, what MMT presents is, I think, an accurate model of how money works, based on the undeniable fact of fiat currency and monetary sovereignty, and of the monetary and fiscal policy that fact implies-i.e., economically-logically demands. We all know, as Bostick's remarks above imply, that this is not what American monetary and fiscal policy looks like.
+
+American monetary policy is structured, and forced to function, around economically illogical confusions that obscure these facts and impede our understanding of how to promote spending for progressive purposes.
+
+The United States government, under the archaic legacy of the gold standard and the controlling influence of the plutocracy, has constructed a scheme of institutions and laws that set up a complicated, unnecessarily antagonistic relation between fiscal and monetary policy, and put the latter into the hands of private, profit-making interests. A lynchpin of this scheme is the Federal Reserve Bank.
+
+The Fed is a curious, chimeric entity. Most of the public believes, and its name implies, that it's part of the federal government, but it is defined as "an independent central bank." That means that, although it was established, and can be eliminated by, Congress, and its Board of Governors is appointed by the President and approved by Congress, its actions "do not have to be approved by the President or anyone else in the executive or legislative branches of government." It's another example of democratic pretense: Its Governors are Congressionally-appointed dictators. As Alan Greenspan famously proclaimed: "[T]here is no other agency of government which can overrule actions that we take."
+
+The Federal Reserve System was planned in a secret meeting (because "knew their ties to Wall Street could arouse suspicion about their motives") of plutocrat bankers and politicians, arranged by J.P. Morgan in 1910 at the Jekyll Island Club off the Georgia coast-called at the time, ""the richest, the most exclusive, the most inaccessible" club in the world. It became law in 1913. Its public purpose was to centralize and rationalize bank funding, in order to prevent the recurrent Panics that had embroiled the country. Its other purpose was to keep monetary policy under the control of the plutocrats' banks, and out of the hands, and the sight, of the public. The Fed likes the air of wizardry and mystification that befogs the public mind about its operations. It does not want the public to know what it knows about how money works. As Henry Ford said.
+
+The Fed is actually a consortium of private banks-its "members," who own its stock and receive a 6% dividend from its activities. To start with. They also get 10% interest on the reserves they hold, which Ellen Brown calculates nets them "at least $700 billion annually" in public money. So, the Fed is "a servant to the banking system while also trying to be a public purpose servant. It has, in effect, two masters by design."
+
+To give the simplified version of a complicated set of financial relationships: Its nominal master, the US government, has ceded to the Fed the authority to create money via debt instruments (Treasury securities); and the Fed has in turn passed that authority to its effective master, the private commercial banks, which create money through interest-bearing loans. In the American monetary system, it is not the people's government, but the bigamist Fed and its member banks that create money, and money is debt.
+
+As Positive Money explains: "Most of the money in our economy is created by banks...Banks create new money whenever they make loans. 97% of the money in the economy today is created by banks, whilst just 3% is created by the government."
+
+And Ellen Brown: "Except for coins, every dollar in circulation is now created privately as a debt to the Federal Reserve or the banking system it heads."
+
+And David Graeber: "[E]verything we know is not just wrong - it's backwards. When banks make loans, they create money. This is because money is really just an IOU. The role of the central bank is to preside over a legal order that effectively grants banks the exclusive right to create IOUs of a certain kind, ones that the government will recognise as legal tender by its willingness to accept them in payment of taxes."
+
+So, we have a "legal order" that grants banks the right to create money as debt. That grants private banks the exclusive right to create money in the form of interest-bearing debt that they profit from. This is apex privatization-the privatization of the power to create money.
+
+This shifting of monetary authority out of the hands of government and into the hands of an unaccountable, kinda-sorta public-ish, but really privately-owned, banking cartel is not dictated by any economic logic. Indeed, as MMT shows, it contravenes the logic of fiat currency and monetary sovereignty, which allows the government to make as much of its own debt-free money as it wishes. As Ellen Brown points out: "If the Fed were actually a federal agency, the government could issue U.S. legal tender directly, avoiding an unnecessary interest-bearing debt to private middlemen who create the money out of thin air themselves."
+
+This sub-contracting of money creation is driven, rather, by the political demand to keep the powerful instrument of monetary policy out of sight and out control of democratically-controlled representative institutions. It deliberately creates a situation where the representative institutions that serve the public and control fiscal policy are constantly hobbled and undermined by decisions of an institution that serves another master.
+
+Recall what I said above about the Fed and the Congress using different benchmarks for what they can do with money. The Fed controls the money supply by calculating what's necessary in relation to the productive capacity of the economy. It asks a pertinent question: How much money does the economy need to function well? The Congress, through the Congressional Budget Office (CBO), relies on a revenue forecast. It asks the irrelevant question: How much money are we going to collect? This discrepancy is a sign of the pernicious form of separation between monetary and fiscal institutions that's enforced in America. The Bank knows how things really work, and makes its decisions on that basis, in ways that are opaque to the public; the Congress-the people's house-makes decisions on the basis of an entirely fictional problematic, with a lot of public hoopla.
+
+There are laws and policies that further complicate and hobble the process. The aptly-named Government Budget Constraint requires that the government borrow enough from the "money market" every year to cover its deficit (the difference between taxes collected and money spent). This is an anachronistic mandate and should be a key target of critique. Per Bostick, it's "like having a law stating for every car there also must be a horse." With fiat currency, it's not an economic requirement, but it is a tool that enriches investors and supports the fiction.
+
+Thus, what could and should be monetary sovereignty from external constraint (by gold or another commodity) is turned back into monetary submission to the constraint of class control (via the "money market"). Debt, like taxes, is conjured as another source of entirely unnecessary revenue. Like taxes, debt is forced into an awkward and meaningless marriage with spending, by an archaic "constraint" that serves to restrict the promiscuous possibilities that, their masters fear, people might discover if revenue and spending were freed from each other.
+
+Similarly, the "debt ceiling" is another redundant, self-imposed hoop the Congress must jump through to confirm that the government really can borrow money it doesn't need for the spending it has already approved. It's a mandatory "Did we really mean it?" second chance to stymie public spending.
+
+The public authority, Congress, taking account of the same kind of factors the Fed now considers (the "full productive capacity" of the economy), should be able to approve a spending bill, and have the government create and spend debt-free money for the purposes for which it was approved. It can and should be up to the public authority, in a transparent and democratic process, to decide how much to spend. If it's too much, they can always take some back. No need for opaque, undemocratic institutions and procedures, which force indebtedness to "the money market", to intervene.
+
+As Australian economist, Peter Cooper, points out:
+
+[quote]In the present economic system, real resources are mobilized only on the say-so of the issuers or possessors of money, and only on their terms. No production, even for profit based on the exploitation of labor, takes place until finance is secured. It makes a great difference whether money is made available on our terms, by a democratically accountable currency-issuing government, or on the basis of private interests motivated narrowly by profit, facilitated by an unaccountable government.[/quote]
+
+This highlights the need for fighting for a public banking and credit system, as a necessary part of a more accountable political regime. The fiat currency could and should be issued by a public authority as debt-free money. The current system of having money created by private banks as interest-bearing debt is unnecessary and dangerous.
+
+Even the industrialists and economists of the classical, "heroic" period of capitalism, the producers of things for profit ("Look at all the new, cheap and useful goods we have produced for you!") thought that the proper role of banking and credit was to be a kind of service sector to the productive enterprises of the economy. Every society has understood the danger when that relationship is reversed. Because money is so important-the necessary conduit of value-in capitalist society, the tendency for it to become the focus of a primary profit-making activity is strong.
+
+The path to severe and inevitable crisis is paved when, instead of finance acting in the service of productivity, productive enterprises become pawns in financial enrichment schemes. This is the domination of financial capital over productive capital that classical capitalism shunned for the parasitism that it is, and that Lenin analyzed as the "highest [and "imperialist"] stage of capitalism." It's what contributed to our last financial crisis (as Michael Hudson has shown so persuasively), and its persistence makes inevitable the next one. Without careful management of debt and interest, and strict constraints on financial speculation and on financial institutions dominating the economy, the tendency toward the hegemony of finance capital becomes an irresistible force. Everything in our history and experience screams the need for public, debt-free money creation, and MMT makes the logic of it clear.
+
+[b]What's Left of It?[/b]
+
+It's true that MMT is not an intrinsically "left" analysis. A look at the burgeoning debate over a Universal Basic Income (UBI) and/or a Jobs Guarantee demonstrates that.
+
+Leftists can use MMT paradigm in support of some version of one or another of these initiatives. Understanding how money works, in MMT terms, makes visible why it's entirely unnecessary to figure out how to "collect" money for social programs, and why it's absolutely necessary to surtax the wealthy. It also makes clear, I think, why any consideration of a minimum income program requires what would effectively be a maximum income policy as well.
+
+But we should beware the right-wing minimum-income schemes, which go back to Milton Friedman's "negative income tax" and "helicopter money," and are coming back to the future as capitalist-friendly, inequality-preserving, simplistically anti-tax UBI proposals from Sili-Libertari-con Valley. On the one hand, these proposals demonstrate that they know that taxes-don't-fund-spending is really the way fiat money works, and they see some hobbled version of UBI-something that provides the masses with subsistence income outside the gated compounds-as necessary to keep the jobless society they're creating from exploding. On the other hand, they are very wary about coming out too strongly with proposals that might reveal the radical possibilities this knowledge opens up for fiscal policy.
+
+Not only is MMT not an intrinsically "left" analysis, it is not a new analysis at all. Today's MMT proponents are only reprising a well-known knowledge of the implications of fiat money that has been stubbornly ignored by latter-day capitalist economists.
+
+Take a look at the following excerpt from a1946 article, titled "Taxes For Revenue Are Obsolete," by Beardsley Ruml, a former Chairman of the Federal Reserve Bank of New York, which was brought to light by Warren Mosler a few years ago. In this article-perhaps because he was writing in the post-WWII moment when the need for 94% marginal tax rates was accepted even by Republicans-Ruml, in the course of an argument for eliminating the corporate tax (not as bad an argument as you may think: he maintains that it "works contrary to the principles of the progressive income tax"), was able to present all the radical implications of fiat currency:
+
+[quote][With an] inconvertible currency, a sovereign national government is finally free of money worries and need no longer levy taxes for the purpose of providing itself with revenue... It follows that our Federal Government has final freedom from the money market in meeting its financial requirements... All federal taxes must meet the test of public policy and practical effect. The public purpose which is served should never be obscured in a tax program under the mask of raising revenue."...
+
+The purposes themselves are matters of basic national policy which should be established, in the first instance, independently of any national tax program...
+
+[A] principal purpose of federal taxes is to attain more equality of wealth and of income than would result from economic forces working alone. The taxes which are effective for this purpose are the progressive individual income tax, the progressive estate tax, and the gift tax. ...Their purpose is the social purpose of preventing what otherwise would be high concentration of wealth and income at a few points, ... These taxes should be defended and attacked it terms of their effects on the character of American life, not as revenue measures. (My emphases.)[/quote]
+
+So, it may have been kept in the shadows of economic discourse, and out of the minds of the average politician and pundit, but the MMT paradigm has been known and clearly articulated by the economic leadership of the ruling class since at least 1946.
+
+One of the reasons the left has not embraced MMT is because its academic proponents have generally avoided presenting it as a "left" idea, or pushing its radical left policy implications-some perhaps for considerations of getting a hearing in the economics profession, some certainly because they are far from anti-capitalist themselves. They are not positing a revolutionary change in the relations of production. They are mostly content with saying, truly and evasively enough: "As economists, we are demonstrating how the fiat money system works. That knowledge can be used for different kinds of social and political purposes, and these are beyond our professional purview."
+
+For their part, left socialists rooted in the Marxist analysis of capitalism (myself included) are generally content with their Capital, Volume One understanding of how wealth and surplus-value is produced via the exploitation of labor-power, and they're eager to figure out how to achieve the democratic control of the means of production. They're not so interested in thinking about money, which they consider a secondary element of the "real" economy, something that will have a much-diminished role in a socialist society, and, anyway, is too damn complicated. Their version of true and evasive enough. As Peter Cooper, puts it: "it seems fairly common on the left to view the topic as superficial compared with study of 'real' stuff. I think downplaying the significance of money is a mistake."
+
+I tend to agree with British Marxist economist, Michael Roberts, that MMT is a more radical Keynesianism, whose thinking about money is consistent with Marxism, even if its conception of the cause of crisis is not. I also agree with Peter Cooper that ignoring the analysis of money is a mistake, and that:
+
+[quote]Modern Monetary Theorists' careful and, as far as possible, objective institutional description and analysis of monetary and fiscal operations in a sovereign currency system arguably brings to light a radical democratic potential inherent in sovereign money, waiting to be seized upon. It opens the way to managed capitalism or social democracy or socialism or beyond, however far (or not so far) we wish to take it...
+
+[F]reedom from the profit imperative, when desired, is always near at hand in a modern money system. A prerogative of a currency-issuing government is to ignore the profit criterion and to proceed on a different basis. The absence of a revenue constraint means that real-resource availability (in relation both to the inflation barrier and environmental sustainability) is the only hard constraint. There is no need to generate a profit. There is no need to provide a flow of interest income to rentiers. If the production is something that the majority would consider socially beneficial, and is within resource limits, the main obstacle to its going ahead is the electorate's own failure to understand the options available to it.[/quote]
+
+And Australian economist Bill Mitchell:
+
+[quote]I see MMT as a progressive body of thought and consider that progressives should first and foremost seek to educate the public about how the economy and money actually operates and what opportunities the government has to act on our behalf to advance our well-being
+
+If we think in this way, then options that have been constructed by the neo-liberals to be 'dangerous', 'radical' or 'taboo' will start to appear reasonable and grounded in reality. The next step is that they eventually become the mainstream orthodoxy.
+
+I see MMT as demonstrating the power of public economic endeavour to fundamentally transform the structure of the economy and the opportunities it provides, which will deliver a very different sort of growth than would be forthcoming if we just uphold the sanctity of capitalism and liberalism a la Keynes.[/quote]
+
+[b]Walk This Way[/b]
+
+The first reason leftists should adopt MMT is the same reason some conservatives do-because it's true, and has been known to be for a long time. And a strong left movement can only be built on a correct economic analysis. Money is a powerful tool/weapon in the hands of our class enemy. We better know how it works.
+
+The left's response to the state of incipient crisis we all know we are living in should be to embrace and explain the reality of monetary sovereignty, and to fight for realizing its radical potential. It should certainly not be to revert to reactionary and wrong Clintonite-Republican discourse of "fiscal responsibility" that always-already hobbles progressive social programs. As commentator Joe Firestone says: "MMT policies can help to bring an end to the ...crisis [of a failing economy and growing economic inequality]; but not if progressives, and others continue to believe in false ideas about fiscal sustainability and responsibility, and the similarity of their Government to a household."
+
+I say again to progressives: Your enemy-the financial and academic elite of your enemy-knows these things. (Henry Ford knew it!) They are using that knowledge to run the mother of all scams. Our task is to seize that knowledge for ourselves and our movement, and to change the ideologies, laws, and institutions that enshroud and operate the scam. We cannot pretend it doesn't exist, or doesn't matter even if it's true-just because we're more comfortable, and know all the rhetorical moves we have to make, within what's basically the household analogy, an ideological crutch that keeps us in the scam.
+
+We don't have to raise a dime of taxes to pay for universal single-payer healthcare, or public college tuition, or infrastructure improvement (or for military spending, for that matter), and we should refuse to submit to the "How are you going to pay for it?" interrogation.
+
+Have you noticed that the proponents of military spending get away with not submitting to it? How we have no special taxes to "pay for" wars, as we do for programs like Social Security and Medicare? How the "fiscally responsible" proponents of making sure all government spending is "paid for" by taxes forget that the minute they have the fiscal power, and embark on aggressive military spending and tax cuts for the wealthy?
+
+Do you think maybe that's because at least some of them know the "How are you going to pay for it?" line is bullshit?
+
+And the Democratic response of: "See, we're the real fiscally-responsible ones, who will make sure everything is paid for!" helps progressive social causes how? By reinforcing the anachronistic taxes-for-revenue, balanced-budget just-like-a-household paradigm that serves no financial purpose, but does serve as a political and ideological rope that strangles social spending?
+
+We do have to make choices, but political and economic choices are made in the spending decision, and they are not dependent on the choices made in the taxing decision. Spending and taxing are separate, parallel activities, and in both of them MMT concentrates the mind right where it ought to be-on questions of political will.
+
+If everyone were to understand that, and participate in those decisions, what do you think we'd be spending more on-nuclear weapons or healthcare? If.
+
+Peter Cooper is right, I think:
+
+[quote]An understanding of modern money makes clear that a democratically accountable government with the backing of the greater part of the electorate would already, under present institutional arrangements, be in a position to begin an extensive transformation of social and economic institutions. But it would require going against the interests of the rich and powerful. To do that successfully, government needs the overwhelming backing of the electorate. And, for that to happen, the electorate needs to be liberated from its confusion over "money" and comprehend the viability of following such a course.[/quote]
+
+MMT will not get us where we want to go, but it will pull back the curtain on what's conjuring up the show that's been mesmerizing us. Understanding and explaining the MMT paradigm will not bring socialism, but it will get us off the yellow brick road of distraction, and point out a more direct path towards it.
+
+Henry Ford's feared, and our hoped-for, new revolutionary day requires understanding that the earth revolves around the sun, not vice-versa. The road to a socialist dawn will dead-end unless more people understand that everything we thought we knew about taxes, spending, and money "is not just wrong - it's backwards," and we damn well better get it turned around.
+
+[b]Notes:[/b]
+
+[1] Modern Monetary Theory is associated with the work of economists like Warren Mosler, Steve Keen, Stephanie Kelton, Randall Wray, Michael Hudson, and others. Its academic home in the U.S. was at the University of Missouri-Kansas City, though it's branched out from there.  A good primer on it can be found at New Economic Perspectives. I've also found Robert Bostwick's short pieces on it helpful.
+
+[2] Everything discussed here pertains to the realm where the fiat dollar is the Monetary Sovereign. That certainly comprises the domestic economy of the United States. International sectors based on other currencies would be another story, and beyond the scope of this discussion. But it's worth noting that the fiat dollar is also the effective reserve currency of the world-meaning almost all of international financial and most of international commercial transactions are carried out in dollars. As this discussion indicates, that makes the dollar a very powerful instrument, a key support of America's imperial hegemony. It also makes rising economic powers eager to break from the dollar, and their attempts to do so particularly threatening to the American state.
+
+[3] It's important not to confuse dollars with circulating cash in the form of physical currency. 90% of the entire dollar money -supply is comprised of deposits in (simplifying) various kinds of accounts, only 10% of it is portable physical tokens-bills, coins-of cash currency. Those coins and bills are tokens of numbers in account ledgers, the "real" money in this system. That's why governments are embarking on campaigns to eliminate cash. They can, and will, ensure that there is no money, no claims on value, untraceable to those accounts. Another virtually inevitable development that can have good or bad effects, depending on who controls it and for what ends.
+
+Gold-bug conservatives see fiat currency as a terrible thing. They think that money must be tied to a physical commodity in order to prevent inflation and achieve "economic discipline." But why should a nation's money supply be constrained by an external commodity, subject to manipulation by the those who control the production of, or access to, that commodity? The point of a fiat currency-which modern Keynesian economists do, and socialists should, understand-is to free a polity from any external constraint against putting as much money in circulation for whatever purposes it wants.
+
+Of course-and this is what all conservatives hate and too many left-liberals fear-that freedom condemns us to confront the fact that all the rest is a question of political will.
+
+[4] I'm saying "government authority" here because, as we'll see below, the government can transfer the power to create money to private institutions, which are not "the government" but act on its authority.
+
+[5] Taking extra money from the wealthy was recognized as a social good even by Republicans, who supported post-WWII marginal tax rates up to 94% (on income above $200,000, equal to $2.4 million in 2009 dollars). I'll point out-because I know it's a casual misconception, implicitly encouraged by the media-that that does not mean someone who makes more than $2.4 million pays 94% of their entire income in taxes; it means they pay 94% on every dollar of income above $2.4 million. That's the rate on that portion or "margin" of income. The effective tax rate on the whole income would be a lot less. A serious progressive income tax policy would impose little or no taxes on income up to the median level, and high rates on the portion of income well above what anybody needs to live well. Nobody, in any rational economic sense, "earns" or needs to keep all the dollars collected over some millions of dollars a year-what, Five? Ten? One? Pick a number.  I've seen proposals for more than 100% tax on high tranches of income.
+
+[6] Note that-even if we adopt the conventional paradigm, and take this amount at face value as "debt"-the $2.5 trillion of debt that one part of the government owes another was not caused by the Social Security program; it was caused to it. Social Security is a creditor of the United States government. This also means that paying off all of that $2.5 trillion the government "borrowed" would not increase the national debt by a penny. It would, in fact, be paying off the largest piece of the national debt.  You cannot add to the national debt by paying off an obligation that is already part of it.
+
+See my piece from 2012, just before I became acquainted with MMT, thoroughly analyzing the purported Social Security "crisis." I showed-again, within the conventional paradigm-how funds collected from workers through payroll taxes were replaced with shady debt instruments ("special issue securities"), which were created in order to allow the government to renege on them without harming the "real" debt market of the investor class.
+
+[i]Jim Kavanagh edits [url=http://www.thepolemicist.net/]The Polemicist.[/url]
+
+[/i][/spoiler]
+
+...And in case you don't have the time or inclination to read any or all of that: Holy-Explainer to follow in the next post!
+
+:-@

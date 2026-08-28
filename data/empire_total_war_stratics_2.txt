@@ -1,0 +1,41 @@
+[quote=SidSeagoon][color=purple]@ Holyman. What settings are you using for campaign and battles? I'm using normal for both on campaign with ultra units. I have read on the TW forums that the game AI does not engage ultra sized units very well and works better on high for unit size.
+
+I'm finding that I have to advance to attack the opposition armies or they just stay at their starting place milling around uselessly.[/color][/quote]
+
+On that last: try using the speed-up function Sid. The opposition armies I face don't always leap into the fray from the off if they are defending, but if I speed things up and don't move my own troops, they usually come to me. If that doesn't happen, then I will move closer to them, but always as an army group, rather than piece meal - that's where the new UI movement controls come in real handy.
+
+If you break your army up, that's usually when the enemy cavalry or melée units come in and start spoiling my group cohesion. I'll always try to find a decent piece of geography to move to, if I have to move closer, but will also try and plot a reasonable course so that the enemy doesn't charge me just as I'm going into a valley.
+
+That said, all of my Campaign battles so far have been in the Americas, where it's relatively flat terrain by and large. Might be different rules in Europe. But where possible, I'll always try and fight on the defensive and rely on my counter-punch to do the messy work. Laying siege to a region capital nearly always results in an attempt by the besieged to try and break it.
+
+Of course, this all applies where the size of the opposing armies is evenly matched. If I'm just clearing out lightly defended Native or Pirate regions, then I can normally rely on superior weight of numbers to ensure genocidal success.
+
+My overall campaign strategy at the moment (playing British), is to capture and colonise the entire American map. As British, you get a mission fairly early on to capture four territories in North America, 3 of which are held by the natives, and 1 (Quebec I think) by the French. There's no time limit on completing the mission, but when you do, it's promised that the entire 13 colonies will come over to your side. So for the price of capturing 4 regions - during which you'll also pick-up a few other Native and Pirate held territories, you get virtually the entire continent.
+
+I've not yet attacked the French: I'm kind of hoping that they or their allies the Spanish will pick a fight with one of my allies - Portugal or the 13 Colonies - so that I can have at them without being the aggressor. I'm not fixing on invading France proper, but have built up a strong navy to defend the English Channel. I've got solid (and low-cost...) militia units guarding my three home regions, and am using mostly colonial line infantry for my Americas campaign. As soon as War kicks off with France and Spain, I'll try to take all the French and Spanish territories in the Americas [b]*APART*[/b] from the one I need to gain the 13 colonies: I'll leave that until last, because I don't want to suddenly have to defend 13 new regions, whilst battling to take the rest of America from the Frogs and 'S'pics.
+
+I reckon that once I've secured all of the Americas map, I'll only need to park a few naval fleets in the theatre-transit zones, and will be able to reduce my armies in the Americas to just (low-cost) militias. I can then manage the taxation to ensure I get the best out of my exclusive access to the Americas trade-zones, but without provoking rebellion (which I suspect is on the cards, given the willingness of the Game to have the 13 Colonies join me...).
+
+I can then turn my attention to India, and try and do the same thing there.
+
+Oh, and btw, one thing I figured out was that right at the beginning of the campaign, you need to just fire out as many trading ships as you can, in the race to get to the trading ports off Brazil, the Ivory Coast, Madagascar and Indonesia. And the first technologies I researched were those which improved my ship travel distance.
+
+The Dutch and the Portuguese seem to back-fill, in that they head straight for Indonesia first off, so I front-fill, nabbing the Brazilian and Ivory Coasts... Madagascar is up for bickering.
+
+Point being that the income from those trade-ships is absolutely vital for military funding.
+
+Think that's about it for now, as far as Campaign Strategy goes.
+
+As far as the technicals go...
+
+I just pressed the "Ultra" button and ran with whatever settings that produced. I did try for a while with Vertical Sync and... Another setting... (Can't remember which...) That weren't set by the "Ultra" option, but switched them back-off after a coupla CTD's.
+
+I've not had any problems on the Campaign Map... I'm also running an i7 CPU with 6.0Gb RAM: maybe it's the 2 x 1Gb Nvidia 280's that do the trick. Though come to think of it, I haven't actually confirmed that the Nvidia Control Panel has the E:TW executable configured as one of its SLI-compatible games (will check that tonight though...).
+
+I [b]*HAVE*[/b] had a few problems on the Battle Map though, mostly to do with shadows tearing. I've had the graphics memory scabbing (not clearing previous images) a few times too, which usually precipitates a CTD. But usually only when I've played 3 or 4 battles on the trot. That can be a real pain if they are battles fought during the AI turns, as I've had a couple of really famous victories eradicated from my History because of a CTD during a subsequent battle. Otherwise, I'm quite happy with the auto-save firing just as I press end-of-turn; so I usually just re-boot and re-run the AI turn and any battles that come with it.
+
+I've not really played around with the graphics settings to see if I can settle things down, 'cos things aren't all that unsettled in the Campaign Map (where I'm spending the bulk of my time atm).
+
+But I'll doubtless have a play around before too long and let you know if I find any tweaks that improve things.
+
+[face_peace]

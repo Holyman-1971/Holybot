@@ -1,0 +1,165 @@
+[quote="SomeGuy"][quote="Holyman"][color=#0000FF]There is no widely accepted currency in our World that is backed by any kind of commodity these days SG.[/color][/quote]
+
+[color=#008080]The point still remains though. Bitcoin and cryptocurrencies in general have no backing of anything. There's inherently no reason why they're worth anything.[/color][/quote]
+
+Quite correct.
+
+But that is true of *ALL* currencies, "crypto-" or otherwise: they have no inherent value at all.
+
+Because they are not supposed or intended to have any inherent value: they are very intentionally not meant to be worth the paper they are printed on.
+
+The only reason *ANY* currency has any worth, is because both parties to the transaction being carried out with that currency both agree that it has worth.
+
+[quote="SomeGuy"][quote="Holyman"][color=#0000FF]As for "Regulatory Backing"...
+
+The only widely-accepted and enforced "Regulation" regarding monetary currencies that I can think of... Is the one about it being illegal to make counterfeit currency.[/color][/quote]
+
+[color=#008080]Regulatory backing is related functions of currencies. Not just enforcing counterfeit currency laws. For example, the Federal Reserve has some regulatory ability over the money supply in the US, what financial institutions can and cannot do and what happens if they call on emergency reserves too often too deeply. (This despite the Federal Reserve being incapable of issuing new currency itself directly.)[/color][/quote]
+
+Ah, I see.
+
+Well, banks are certainly regulated to one degree or another (...), by both the Federal Reserve and the Securities and Exchange Commission(s) in the U.S. But it is the banks' activities and conduct that is regulated, not the currency itself.
+
+The Federal Reserve Banks of the United States are non-Governmental bodies. That is: [url=https://www.stlouisfed.org/in-plain-english/who-owns-the-federal-reserve-banks]Federal Reserve Banks (despite the name..!) are not a part of the Federal Government[/url].
+
+Therefore, unlike an actual Federal Government Agency or Commission, the Federal Reserve Banks are not in a position to issue enforceable mandates or edicts. The role of the Fed is to try and keep the U.S. Banking System from going off the rails (a task it performs to a greater or lesser degree of success, depending on your perspective).
+
+But this has nothing to do with regulating the actual U.S. Dollar.
+
+I am not sure how you would go about regulating a currency...
+
+[quote="SomeGuy"][quote="Holyman"][color=#0000FF]An important point (perhaps the most important!) to understand about Bitcoin (and the other Block-Chain Currencies that are currently proliferating), is that it is (or at least was) primarily intended to fulfil two of the three main functions of [url=https://en.wikipedia.org/wiki/Money]Money[/url] in our World:
+
+Those three functions are:
+
+1)  [url=https://en.wikipedia.org/wiki/Medium_of_exchange]A medium of exchange[/url]
+
+2)  [url=https://en.wikipedia.org/wiki/Unit_of_account]A Unit of Account[/url]
+
+3)  [url=https://en.wikipedia.org/wiki/Store_of_value]A Store of Value.[/url]..
+
+It is the first two functions that Bitcoin/Block-Chain primarily aims to fulfil in our Brave New Digital World.[/color][/quote]
+
+[color=#008080]And they are rapidly becoming seen as failing at that notion owing to its extreme volatility and its reputation for association with how shall we say less than desirable elements of global society.
+
+It may technically remain a Unit of Account and a Medium of Exchange, but it's one that's untrustworthy, unstable, and frankly illogical.[/color][/quote]
+
+Umm... Not quite.
+
+The volatility and price instability of Bitcoin as a commodity has no bearing on its function as a Medium of Exchange or Unit of Account: only on its function as a Store of Value.
+
+But more on that point in a second...
+
+[quote="SomeGuy"][quote="Holyman"][color=#0000FF]The idea of Bitcoin was to create a genuinely International Currency that could and would be free of political influence and turbulence.[/color][/quote]
+
+[color=#008080]And boy howdy did that fail hard. More and more countries are using their political influence against it and it's created so much turbulence for itself it makes historical cases of Funny Money (for example the Brazilian Real long ago) look outright stable.[/color][/quote]
+
+Again... Not really.
+
+That's an important point you make there SG: countries are using their political influence *AGAINST* Bitcoin...
+
+...Because they recognise the threat that Block-Chain currencies pose to nations' [i]fiat[/i] currencies.
+
+There is certainly a "War" going on at the moment, with Block-Chain currencies as the Insurgency, and National [i]fiat[/i] currencies fighting a rear-guard action.
+
+Consider a different measure of the progress of that "War" to just looking at the price volatility of just one of those Block-Chain currencies:
+
+Look instead at the increasing proliferation of *MANY* Block-Chain currencies... There seems to be a new one announced on a daily basis.
+
+Consider also the fact that privately-owned Global Banks, not restrained by any particular National Allegiance, are rapidly developing their own Block-Chain Proofs-of-Concept experiments, because of all the advantages to transaction services Block-Chain provides:
+
+http://treasurytoday.com/2017/09/the-rise-and-rise-of-blockchain-tttech
+
+Sure, if you want to focus solely on the Rise-and-Fall of Bitcoin (a single Block-Chain currency brand), then you would be forgiven for thinking that one decentralised proto-currency cannot possibly stand-up to the Leviathan it is up against.
+
+But if you take time to look at all the other "insurgent groups" (other Block-Chain currencies, in this case) that are making progress whilst the World obsesses about Bitcoin...
+
+...You might come to a different conclusion.
+
+[quote="SomeGuy"][quote="Holyman"][color=#0000FF]Perhaps in time, when the concept of Bitcoin (and "Money" generally) is more widely understood, or more likely, when the 21 Million limit has been reached, the commodity price of Bitcoin will stabilise.[/color][/quote]
+
+[color=#008080]And it will then run into the problem of lacking control over the money supply.[/color][/quote]
+
+There will be no problems with lack of control, because there will be nothing to control.
+
+Money Supply with [i]fiat[/i] currencies is always a problem, *BECAUSE* they are not backed by any commodity with convertibility. Since a Central Bank can supply as much [i]fiat[/i] money as it wants to (because it creates that money out of thin air), it *DOES* need to carefully control how much it creates.
+
+But once the 21 Million Bitcoin mark has been reached: that's it. No more Money Supply worries!
+
+[quote="SomeGuy"][color=#008080]For someone to get more Bitcoins, someone else must reduce theirs. The system never "grows" unlike in government controlled currencies.[/color][/quote]
+
+That is because with Government controlled currencies, for someone to get more Dollars, there is no requirement that anyone else must reduce the amount of Dollars they have. The Government just asks its Central Bank to increase the amount of Dollars in circulation.
+
+[quote="SomeGuy"][color=#008080]There can be no creation of more wealth, more activity, more supply, once all those 21 million are "tapped out" and in the wild, they're in the hands of those who hold them and nothing more, no loans, no stimulus packages, no nothing, you must take from one to give it to another.[/color][/quote]
+
+OK. We're getting to the heart of the issue here.
+
+Let's get Wealth out of the way first:
+
+Wealth is Relative.
+
+If you possessed one billion U.S. dollars right now, you would be wealthy, because not many other people possess one billion U.S. dollars. But if every other American also possessed one billion U.S. dollars: you would *NOT* be wealthy.
+
+Right: Value then.
+
+Economic Activity has Value.
+
+The labour you are able to personally supply has Value. Your car has Value as a utility. The home you live in has Value.
+
+When a corporation uses its valuable productive capacity to add Value to a raw material by converting it into a manufactured good that has Value: there is Value being created all along the Supply Chain.
+
+Money has no Value.
+
+Money exists purely to act as a medium by which Value can be exchanged.
+
+Money is an auxiliary mechanism that is used to ease and "lubricate" Economic Activity.
+
+At most: Money is just a way of "Keeping Score" between participants in an Economic System.
+
+Let's say that you have that Billion Dollars again.
+
+That's great news for you, because there aren't many things in the World that you might value possession of, which cannot be exchanged for U.S. Dollars.
+
+But what if everyone suddenly stopped accepting U.S. Dollars?
+
+You still have your Billion Dollars, but now you cannot exchange either a one or all of those Dollars for anything that you would value possession of.
+
+The same would apply to Bitcoin.
+
+*IF* - and it is not inconceivable - one person managed to acquire every last one of the 21 million Bitcoins that will be created, those Bitcoins would immediately become worthless.
+
+Because unless the creators, suppliers and consumers of Value are willing to accept Bitcoins as payment, those Bitcoins won't be worth the paper they are not printed on.
+
+The *ONLY* Utility Value that Bitcoins have, is their ability to be used to buy and sell goods and services of Value. If one or a small group of people manage to acquire all or the vast majority of Bitcoins, and choose to stockpile them rather than spend them, Bitcoin's Utility Value would disappear, because there wouldn't be enough left in circulation to fulfil the purpose that gives Bitcoin its Utility Value.
+
+And simply: all of the other non-Bitcoin holding actors in the Economy would just create an alternative currency with which to continue lubricating their Economic Activity.
+
+But I would say that I think the Inventors and promoters of Bitcoin have thought this through.
+
+As and when the 21 Million Bitcoins have all been mined, any need to increase the number of Bitcoin units necessary to keep pace with increased Economic Activity will be met with...
+
+Fractionalisation.
+
+That is:
+
+If you think $20,000 is a bit of a high price for a single Bitcoin: wait until a single Bitcoin is worth $1 million!
+
+Let's say that the total GDP of the World is $21 trillion (that'll help make the maths easier...).
+
+And let's say that is the U.S. Dollar denomination of the total Economic Value of the World (it isn't, because I'm not including Fixed Assets...).
+
+That means that for all that Economic Activity to be "lubricated", $21 trillion of currency is required to enable the Value created by that activity to be exchanged. Anything less than $21 trillion in circulation would stifle Economic Activity, because there wouldn't be enough Exchange Media to facilitate Value Exchange.
+
+Now let's turn that 21 trillion dollars into 21 million Bitcoins, with each Bitcoin being worth $1 million.
+
+Nothing has changed. Economic Activity and Value Exchange can still be "lubricated" by those Bitcoins, just as it was with the Dollars.
+
+But... Since by far and away the majority of Value Exchanges will be for less than 1 Bitcoin / $1 million... It will be a simple question of those Low-Value Exchanges being carried out with *FRACTIONS* of a Bitcoin.
+
+And because Bitcoin is a Digital Currency, it can be *INFINITELY* fractionalised, in a way that a U.S. Dollar really can't be. The lowest commonly accepted fraction of a U.S. Dollar is, I believe 1/100th of a Dollar, or a "Cent", as I believe you call them.
+
+It really isn't important how fractionalised a Digital Currency becomes, or how many colloquial names (like "nickel", "dime", "farthing" &c.) are christened to describe those various fractions. Just so long as the Currency continues to serve its purpose as a Medium of Exchange.
+
+I'll leave it that for now, because the discussion on the Utility Value of gold, and its facility use for anything other than decoration and a means to display wealth, is really a different topic.
+
+...And I've gone on long enough, and I'm supposed to be making my way to a social event on the other side of the City!!

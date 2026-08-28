@@ -1,0 +1,125 @@
+Okay.
+
+Couple of things first:
+
+The chances of your bank, credit-card or loan company ever offering to pay you to borrow money (i.e. pay back less than you borrow) are zero.
+
+And the chances of your bank charging you for the normal, authorised operation of your current, checking and savings accounts are increasing daily.
+
+Hope that is abundantly clear.
+
+Right then.
+
+Needless to say, the concept of "Negative Interest Rates" reflect a dynamic that exists solely between the Public Sector (Government) and the Financial Sector (Banks, Hedge Funds, Traders &c.).
+
+And to clarify, there is a distinction between Nominal Interest Rates (what we are talking about) and Real Interest Rates.
+
+Real Interest Rates go negative somewhat frequently.
+
+If the Central Bank sets its Interest Rate lower than the Rate of Inflation: that's a Real Negative Interest Rate.
+
+If Inflation is at 5% (to make the sums easier...), then [currency of your choosing]100,000 on the 1st January is only going to be worth 95,000 (in 1st January money) on 31st December.
+
+And if you borrow 100,000 (in 1st January money) at 3% on 1st January, when you pay back 103,000 (in 31st December money) on the 31st December, you will only be paying back (around) 97,000 (in 1st January money).
+
+(Give or take on those figures, but you should get the picture.)
+
+It is infrequent, but not wholly unusual that a Central Bank sets its Interest Rate below the Rate of Inflation.
+
+But we're talking about Nominal Interest Rates here, not Real.
+
+Parameters:
+
+The Economic strength of a Society (National, or otherwise), is not measured by how much money is in circulation, nor even a currency metric for Gross Domestic Product: Economic Strength is measured by the rate of expansion of Economic Activity (making stuff, providing services, utilisation of production capacity, utilisation of available workforce &c.) If these Economic activities are increasing, then an Economy is "Strong"; if these activities are decreasing, then an Economy is "Weak".
+
+"Money"... Is *JUST* a Unit of Account, a Medium of Exchange, a Store of Value, and frequently, a [url=https://en.wikipedia.org/wiki/Standard_of_deferred_payment]Standard of Deferred Payment[/url]. (The last of those is the most... Interesting [unintentional pun])
+
+Back in the Good Old Days of Randian Industrial Capitalism, Wealth was determined by *WHAT* you owned (and controlled): the Means of Production (obviously); Land; proprietary rights to technologies, and such forth. But since the Global Economy became "Financialised" in the 1980's, Wealth has become measured purely in monetary terms.
+
+Which is a bit odd... Since "money" is just an abstract notion: it has no intrinsic value, in and of itself.
+
+Find a man who has just spent five days in a desert (and is still in that desert, with no shops or water-vendors within a survivable walking distance), and ask him what he would most value possessing: a huge sack full of currency; or a bottle of water... And you will understand Value.
+
+What's the old Native American proverb?
+
+[quote]"When the last tree has been cut down, the last fish caught, the last river poisoned: only then will we realise that one cannot eat money."[/quote]
+
+Lest this all start to sound like "Commie Talk!", I should emphasise that it isn't.
+
+It's got nothing to do with Industrial Capitalists having private ownership of the Means of Production; or any Moral Requirement to redistribute wealth (or not). I am just trying to emphasise that "Money" is meaningless... That "Money" is *NOT* Wealth.
+
+Exploitation is never a great dynamic: certainly not for the exploited; and frequently not for the exploiter.  But frankly, that's something the Exploiter and the Exploitee need to figure out between themselves. Some people are born to be exploited, and other born to exploit: who are we to judge? Those of us not involved in the Exploitation Dynamic, don't really have any business interfering, now do we?
+
+But...
+
+*WE* are being Exploited by the Masters of the Finance Universe. And it is our ignorance of the vast and incomprehensible nature of Financial Systems, and the pseudo-Science of Economics, that is being exploited.
+
+The situation really is analogous to taking our car down to the local garage/car-shop, without the faintest idea of how a car works (beyond pressing the "Go" and "Stop" pedals, and steering to avoid things). How easy is it for those who do understand how a car works, to exploit the ignorance of those who do not?
+
+Every one of us *HAS* to use Money... Pretty much every moment of our lives is dominated by thoughts about Money. But most of us have a better understanding of how our lungs take oxygen out of the atmosphere and put it into our bloodstreams... Than we understand how Money works.
+
+How then can we *NOT* be exploited by those who know, decide and control how Money works?
+
+(Nominal) Negative Interest Rates then..:
+
+Used to be... Back in the Day... That increased Economic Activity required the increased minting of "Money". Stands to reason. The more Economic Activity you have going on, the more media you need to be able to exchange and transact that activity.
+
+If there's only a butcher, a baker and a candlestick-maker, then chances are, a single unit of currency might be sufficient to manage the transactions between these three trades-people... Provided they can collectively organise and schedule their activities so that the single unit of stored value only ever needs to be held by one of them at any point in time.
+
+But if the candlestick-maker needs both a loaf of bread *AND* a fresh steak, at a point where both the butcher's and the baker's candlestick needs are fulfilled, and neither are accepting candlesticks as payment... Then you are going to need a second unit of stored value, to keep things moving.
+
+So the job of the Central Bank (as an Agent of the Government) was always to ensure that there was enough "Money" in circulation to keep Economic Activity fully oiled and greased.
+
+The trick was always to try and match the amount of "Money" in circulation, to the degree of Economic Activity. Too much "Money" circulating in an Economy with too few goods and services available, results in (currency) Inflation. Too little "Money" circulating: then the suppliers of goods and providers of services have to lower their prices = Deflation.
+
+Point being that the "Money" supply (currency in circulation) should be driven by Economic Activity.
+
+Whilst politicians were appointing Central Bank Governors/Chairs, the idea was to try and coordinate Monetary Policy (setting interest rates) with Social and Economic Policy. The politicians frequently tried to compensate for poor Social and Economic Policies, with generous or austere Monetary Policies... But on the whole, politicians always have their eyes on the next election, and would try to get the Balance right.
+
+But from the 1980's onwards, those politicians gave in to (financial "donation") pressure from the (Private) Finance Sector, and increasingly "de-regulated" the Banking System, and facilitated Central Bank "Independence".
+
+And from thence onwards, it was left to the Bankers in our lives to decide how much "Money" would circulate in and around National Economies, and the Global Economy generally.
+
+It now works like this:
+
+When a (Private Sector) Bank makes a loan (mortgage, credit-card, whatever...) to an individual or corporation, the "Money" that is loaned is created out of thin air. Prior to the "Debt Instrument" being created, the "Money" doesn't exist.
+
+It's not like the old "Intermediate Loan Financing" Model, whereby a Bank pays a depositor 3% interest on deposited funds, then lends those funds out to a borrower at 6%, and pockets the difference. With the "Finance Money Creation" Model, when someone borrows money from a bank, the loan entry in their balance sheet simultaneously becomes an asset entry in the banks' balance sheet.
+
+In other words: when you borrow 500,000 from your bank, instead of your bank now having 500,000 less to loan out to others, the bank is now worth 500,000 more than it was before it approved your loan (at least as far as the Central Bank is concerned).
+
+More information here:
+
+http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q1prereleasemoneycreation.pdf
+
+And here:
+
+https://bankunderground.co.uk/2015/06/30/banks-are-not-intermediaries-of-loanable-funds-and-why-this-matters/
+
+And what this means is:
+
+The more money that businesses and individuals borrow: the more "Money" there is in the Economy.
+
+And the more debt that businesses and individuals repay: the *LESS* "Money" there is in the Economy.
+
+And as mentioned above: the less "Money" there is circulating in the Economy; the less "grease" there is for Economic Activity (a.k.a. Deflation).
+
+In other words: when you borrow money, you are contributing to Economic Activity; and when you repay your debts, you are causing Economic Activity to decline. Repayment of debt takes "Money" *OUT* of the Economy.
+
+If we want Economic Activity to thrive, then individuals and businesses need to *SPEND* money... Not hoard it, or worse: repay it.
+
+So when politicians pressure "Independent" Central Bank Governors/Federal Reserve Chairs (with the threat of the loss of that "Independence") to set Nominal Interest Rates at a negative level: it is because they want to pressure Private Sector Banks into lending more "Money" (/increasing the amount of "Money" circulating in the Economy).
+
+In the 2008 Financial Crisis, many banks collapsed, and many more came very close to collapsing. Subsequently (and consequently), most banks have spent the time since, trying to rebuild their Capital Reserves (i.e. building up the amount of cash they hold on deposit at the Central Bank).
+
+Politicians don't want them to do this, because it is keeping at least the Western World (+ Japan) mired in Economic Stagnation. So politicians try to...."encourage" the "independent" Central Bankers to set Nominal Interest Rates at a negative level.
+
+The problem that the politicians have got... Is that they've been championing "Austerity" policies for the last eight years... And so they can't come out and declare that they *NEED* people to take on new debt, rather than pay off old debt.
+
+The irony there of course being that individuals and private businesses *SHOULD* pay off debts (and definitely not take on any more); whilst Governments *SHOULD* be taking on debt, in order to kick-start their stagnant economies.
+
+Private individuals and businesses shouldn't have debt, because paying interest on those debts takes money away from the productive areas of the Economy, and funnels it to the (unproductive) Finance Sector.
+
+And Governments/Public Sector *SHOULD* "borrow" more money (at historically low interest rates) in order to invest in stagnant economies that no Private Sector corporations are going to invest in.
+
+It's all a bit silly really... And can't go on for much longer.

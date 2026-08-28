@@ -1,0 +1,9 @@
+A topic, concept, or blueprint in our upcoming thread is only considered "Done" when:
+
+• [ ] The core engineering or sociological problem is clearly defined.
+
+• [ ] A concrete, actionable solution or framework has been articulated (no leaving it at "we should figure this out").
+
+• [ ] Potential friction points, edge cases, or human psychological resistance have been anticipated and countered.
+
+• [ ] We have a clear "Next Step" or transition point mapped out for when we move into the Design phase.

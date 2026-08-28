@@ -1,0 +1,149 @@
+[quote="SomeGuy"][quote="Holyman's Article"][color=#0000FF]Bitcoin is like gold in many ways. Like gold, Bitcoin cannot simply be created arbitrarily. Gold must be mined out of the ground, and Bitcoin must be mined via digital means. Linked with this process is the stipulation set forth by the founders of Bitcoin that, like gold, it have a limited and finite supply. In fact, there are only 21 million Bitcoins that can be mined in total. Once miners have unlocked this many Bitcoins, the planet's supply will essentially be tapped out, unless Bitcoin's protocol is changed to allow for a larger supply. Supporters of Bitcoin say that, like gold, the fixed supply of the currency means that banks are kept in check and not allowed to arbitrarily issue fiduciary media.[/color][/quote][color=#008040]So let me get this straight...1) It's a currency with no governmental, regulatory, or commodity backing.[/color][/quote]
+
+There is no widely accepted currency in our World that is backed by any kind of commodity these days SG.
+
+The last major currency that held "convertibility" (to gold) was the U.S. Dollar
+
+[quote] In 1944 in Bretton Woods, New Hampshire, representatives from 44 nations met to develop a new international monetary system that came to be known as the Bretton Woods system. Conference members had hoped that this new system would "ensure exchange rate stability, prevent competitive devaluations, and promote economic growth." It was not until 1958 that the Bretton Woods system became fully operational. Countries now settled their international accounts in dollars that could be converted to gold at a fixed exchange rate of $35 per ounce, which was redeemable by the U.S. government. Thus, the United States was committed to backing every dollar overseas with gold, and other currencies were pegged to the dollar.
+
+For the first years after World War II the Bretton Woods system worked well. With the Marshall Plan, Japan and Europe were rebuilding from the war, and countries outside the US wanted dollars to spend on American goods-cars, steel, machinery, etc. Because the U.S. owned over half the world's official gold reserves-574 million ounces at the end of World War II-the system appeared secure.[/quote]
+
+But in 1971..:
+
+[quote]The [b]"Nixon Shock"[/b] was a series of economic measures undertaken by United States President Richard Nixon in 1971, the most significant of which was the unilateral cancellation of the direct international convertibility of the United States dollar to gold.
+
+While Nixon's actions did not formally abolish the existing Bretton Woods system of international financial exchange, the suspension of one of its key components effectively rendered the Bretton Woods system inoperative. While Nixon publicly stated his intention to resume direct convertibility of the dollar after reforms to the Bretton Woods system had been implemented, all attempts at reform proved unsuccessful. By 1973, the Bretton Woods system was replaced de facto by the current regime based on freely floating fiat currencies.[/quote]
+
+https://en.wikipedia.org/wiki/Nixon_shock
+
+As for "Regulatory Backing"...
+
+The only widely-accepted and enforced "Regulation" regarding monetary currencies that I can think of... Is the one about it being illegal to make counterfeit currency.
+
+Other than that, I'm not sure what you might mean by "Regulatory Backing"..?
+
+"Governmental Backing" is *ALL* there is these days I'm afraid. That is the very specific nature of  [url=https://en.wikipedia.org/wiki/Fiat_money]"Fiat Money"[/url]:
+
+[quote] Fiat money is a currency without intrinsic value established as money, often by government regulation. It has an assigned value only because the government uses its power to enforce the value of a fiat currency or because the exchanging parties agree to its value. It was introduced as an alternative to commodity money and representative money. Commodity money is created from a good, often a precious metal such as gold or silver, which has uses other than as a medium of exchange (such a good is called a commodity). Representative money is similar to fiat money, but it represents a claim on a commodity (which can be redeemed to a greater or lesser extent).
+
+The first use of fiat money was recorded in China around 1000 AD. Since then, it has been used by various countries, usually concurrently with commodity currencies. Fiat money started to dominate in the 20th century. Since the decoupling of the US dollar to gold by Richard Nixon in 1971, a system of national fiat currencies has been used globally, with freely floating exchange rates between the national currencies.[/quote]
+
+[quote="SomeGuy"][color=#008040]2) It has a fixed finite amount that has neither central bank nor control over whether or not more should exist in terms of money supply.[/color][/quote]
+
+Exactly that.
+
+An important point (perhaps the most important!) to understand about Bitcoin (and the other Block-Chain Currencies that are currently proliferating), is that it is (or at least was) primarily intended to fulfil two of the three main functions of [url=https://en.wikipedia.org/wiki/Money]Money[/url] in our World:
+
+Those three functions are:
+
+[url=https://en.wikipedia.org/wiki/Medium_of_exchange]A medium of exchange[/url]
+
+[url=https://en.wikipedia.org/wiki/Unit_of_account]A Unit of Account[/url]
+
+[url=https://en.wikipedia.org/wiki/Store_of_value]A Store of Value.[/url]..
+
+It is the first two functions that Bitcoin/Block-Chain primarily aims to fulfil in our Brave New Digital World.
+
+Fiat currencies issued by the Central Banks of nations (and in the case of the E.U.: Federations of nations) are eminently suited to domestic financial transactions. Every person and corporation who lives and operates within the same National Jurisdiction, has (presumably...) a vested interest in supporting the Economic integrity and viability of their Home Nation.
+
+Where and when that nation is a Representative Democracy (at least in theory...), the People (and corporations) are the Government, and the Government is the People. And that means that it is (theoretically) the People of the Nation who are underwriting/guaranteeing the value of the currency that is issued in their name.
+
+The problems begin to arise when these national [i]fiat[/i] currencies need to be exchanged into another nation's [i]fiat[/i] currency, for the purposes of international trade. Because one nation's People (or Dictator...) may not necessarily have the same faith in the People of another nation, as they do in their own. Or, more accurately I guess: one nation's Government may not have (or desire to have) the same faith in another Government's [i]fiat[/i] currency, as they do in their own.
+
+When currencies were backed by a commodity such as gold, this wasn't a problem, because the commodity itself was used as the basis for any foreign transactions. But now that no such convertibility exists, things can often be a bit more awkward...
+
+The United States still enjoys the advantage it has had since 1944, in that the trading of major commodities such as oil and gas, is (for the time being...) carried out internationally in U.S. Dollars. Though this "arrangement" has been under pressure for a while now, and there is no guarantee that it will last much longer. The end of that "Dollar Hegemony" will present the U.S. with significant challenges that I won't go into here, but even while it endures, it requires a delicate degree of management if its decline is not to be hastened.
+
+So... The emergence of Bitcoin (as the most well-known Block-Chain currency, and I'll now just use "Bitcoin" as a catch-all reference) is a more or less direct result of "Globalisation" and the Digitisation of International Trade and Finance.
+
+Since National (or Supra-National, e.g. The Euro) [i]fiat[/i] currencies are subject to the political priorities and expediencies of the issuing government, and this can and has proved disruptive to International Trade, the idea of Bitcoin was to create a genuinely International Currency that could and would be free of political influence and turbulence.
+
+As a "Medium of Exchange", Bitcoin can only exist because the overwhelming bulk of Global financial transactions are now carried out digitally. I'll come onto your final point about the U.S. Mint creating currency notes and coins shortly, but for now, it is important to understand that very few transactions (especially International transactions) are still carried out using physical cash.
+
+Mostly these days, "money" is moved around digitally/electronically: most of us get paid "electronically"; and most of us pay our bills the same way. I know that in the U.S., checks are still widely used, and for all intents and purpose, these checks are the same as physical cash. But that is just because the U.S. is still playing catch-up with the Rest of the World in that regard. For the most part these days, we are all more likely to "move money around" using Smartphone Apps, than we are to withdraw cash from an ATM or bank counter, and then physically transport it to where we then pay our bills using that cash.
+
+OK then. So the most important thing to remember about all this "money" (howsoever transacted, in whatever form), is that it is intrinsically worthless. It has no value beyond the recycling/scrap value of the notes or coins that are decreasingly minted to represent it. Money is used as a mechanism to exchange goods and services that *ARE* actually valuable.
+
+So for example, your labour (/labor) has value SG. There are employers out there who value the tasks that you are able to perform. And in order to obtain the value of your labour, those employers must give you something of equal value in exchange.
+
+Now I think it is that case that your current employer (IIRC) is in the business of educating young human beings. And therefore your employer values your ability to help ensure that those youngsters can be educated in a clean, tidy and safe environment. If by happy coincidence, you currently valued Child Education Services (i.e. you had kids of school-age), then you could possibly enter into a Barter Arrangement: you will take care of the school environment, in exchange for the school educating your kids. (Please forgive me if I've lost track of your employment and parental status SG, but this is purely for illustrative purposes!)
+
+But more'n likely, getting paid for your services purely in Education Vouchers, wouldn't be much use to you, as many of the other goods and service providers you are in some form of arrangement with, will not accept Education Vouchers as payment for your rent, mortgage or utility bills (for example). So you require payment in exchange for providing the value of your services in a more widely accepted currency.
+
+And so by mutual agreement (if not understanding..!), you and other members of your society have agreed to use the "Dollar" as a medium with which individuals and corporations offering different goods and services can exchange the value of those goods and services.
+
+The "Dollar" is worthless. Is meant to be worthless. Is not considered to have any worth by those who fully understand the nature of Money. But..! As an acceptable medium for the exchange of differently valued goods and services, it serves its intended purpose: which is to "lubricate" those value exchanges, in the same way that oil lubricates the moving parts of an engine. Relative to the value of the engine itself, engine oil is virtually worthless: an engine might cost you a couple of thousand dollars or more... But you can pick up a can of engine oil for twenty bucks. But without the presence of that oil within the engine, the engine cannot work.. Or will only work for a *VERY* short while, before it too becomes more or less worthless.
+
+Bitcoin is no different. It is not meant to have any intrinsic value. It is merely intended to be a "Unit of Account" that can be used to facilitate the exchange of actual value between the providers of differently valued goods and services. And so long as there are goods and services providers willing to use Bitcoin as a medium with which to exchange value, it can and will serve its intended purpose.
+
+Whilst Bitcoin *CAN* be used as a "Store of Value", and perhaps in time it will be able to perform that function more reliably, the current volatility of its price as a commodity makes it difficult to fulfil that function. With the current wide fluctuations in its price as a commodity, using it to store value is a risky business. But no more so than using Zimbabwean Dollars or Belorussian Roubles is equally risky. Using U.S. Dollars, British Pounds or the Euro as a "Store of Value" is much less risky, because those currencies are relatively stable.
+
+Perhaps in time, when the concept of Bitcoin (and "Money" generally) is more widely understood, or more likely, when the 21 Million limit has been reached, the commodity price of Bitcoin will stabilise. If, in fact, the "custodians" of Bitcoin do stick to their founding intention to limit the amount of Bitcoin in circulation to 21 Million, there is every reason to anticipate that it will settle at a fixed price that will never change, since there will be no further changes in the supply of Bitcoin. At that point, Bitcoin *WILL* be able to be reliably used as a "Store of Value"...
+
+But not just yet!
+
+[quote="SomeGuy"][color=#008040]3) Banks allegedly have the ability to "arbitrarily issue fiduciary media" aka money and thus must be kept "in check"? Which banks are we talking about here? The US Federal Reserve? The Bank of London? Wells Fargo? Two of those I know for certain have no direct control over whether or not new currency is printed/created. (The US Mint, responsible for the creation and backing of the US Dollar is part of the US Treasury and has no direct relation to the Federal Reserve.)[/color][/quote]
+
+Alright. Nearly done then!
+
+Central Banks are a different entity to Mints.
+
+A Mint's sole function is to manufacture notes and coinage. *ONE* of a Central Bank's functions is to increase (and very occasionally decrease...) the Money Supply.
+
+Banks *ACTUALLY* (not "allegedly") have the ability to "arbitrarily issue fiduciary media". This does not mean that the Central Bank itself can print or coin money - that is an industrial process that is carried out by whichever Mint is contracted to perform that function. But a Mint can only manufacture notes or coins as directed by the Central Bank when the latter increases the Money Supply (a Mint will also manufacture notes and coins to replace existing notes and coins that have been physically worn out by usage, but that is an incidental function).
+
+A Central Bank can (and most usually does) increase the Money Supply without needing to direct its contracted Mint to manufacture more notes and coins. This used to be called "Penstroke Money", but these days is more commonly referred to as "Keystroke Money", for obvious reasons.
+
+And since the late 1990's, most Central Banks in Western Economies have been granted the independence to "control" (increase...) an Economy's Money Supply as they see fit. And furthermore, these Central Banks have sub-contracted this function to Private Banks, who increase the Money Supply by means of the [url=https://www.forbes.com/sites/francescoppola/2017/10/31/how-bank-lending-really-creates-money-and-why-the-magic-money-tree-is-not-cost-free/#1e41ec8c3073]Finance Money Creation mechanism[/url].
+
+Like you say SG: No Philosopher's Stone required!
+
+[quote="SomeGuy"][color=#008040]And yet gold is not so finite that there's "only 21 million" gold coins worth of gold in the Universe. [url=http://earthsky.org/space/how-the-universe-creates-gold]It's created in the throes of dying stars in complex nuclear reactions, we recently observed such creation in real time or its close-enough equivalent.[/url] (No Philosopher's Stone required.)[/color][/quote]
+
+But there may only be "21 million gold coins" on Planet Earth...
+
+And until such times as Humankind discovers a solid gold planet out there in the Universe, *AND* figures out a way of transporting it back to Earth... It is only the gold present and accessible here on Earth that is relevant.
+
+But here's the thing:
+
+Until the latter half of the 20th Century, with the rise in its use as a conductor in electronic circuits, gold never really had any [url=https://en.wikipedia.org/wiki/Utility]Utility Value[/url]. Gold was (still is) useful for decoration and jewellery of course, but in themselves, decoration and jewellery had little or no Social Utility.
+
+You can't use gold to make weapons, or build anything purposeful with it, because it is too soft. It is also much more scarce than iron (and therefore steel), so why would you bother?
+
+Gold's use as monetary currency (and later, as a convertible backing to paper currency) came quite late in the day, in historical terms. It was preceded primarily by silver, which was more easily obtained in Europe and Asia; and prior to that, by agricultural commodities that had a far greater Utility Value.
+
+By contrast, in South and Central America, prior to European colonisation, gold was also not used as a currency... Because there was *TOO* much of it! It was literally lying around all over the place. The Mayans, Incas and Aztecs certainly made use of it for decoration, because of gold's "noble" properties (i.e. it doesn't oxidise/rust)... But there was just too much gold available for it to be usable as an effective basis for a currency.
+
+And here's another thing, that might give you cause to reconsider your appetite for discovering solid gold asteroids in the belt between Mars and Jupiter:
+
+In 16th Century Europe, Spain was the preeminent power. It was the richest and most militarily powerful of all European nations, particularly after it evicted the Moors from the Iberian Peninsula and plundered the Moorish Empire's assets.
+
+And in 16th Century Europe, the primary monetary currency was silver.
+
+So when in that same century, Spanish Conquistadors discovered (virtually) entire mountains made of silver in South America, their eyeballs all span and came up with [url=https://en.wikipedia.org/wiki/Spanish_dollar]Pieces of Eight[/url] signs!
+
+They figured that all they needed to do was to shift all that silver back to Spain, and the Spanish would become the unassailably wealthiest Nation for the remainder of Eternity!
+
+And so they set about shipping all that silver back to Spain...
+
+...And consequently destroyed the Spanish Economy, and more or less immediately deposed Spain from its position as #1 European Nation.
+
+Because..: what the Spanish failed to understand was that silver had no significant Utility Value. It's only real purpose (and therefore value) was as a Medium of Exchange and a Store of Value.
+
+And as soon as all that South American silver flooded into Spain (and then into the rest of Europe), even silver's utility value as a currency evaporated: because there was just too much of it.
+
+So...
+
+The whole principle of backing a currency with a commodity that provides convertibility is predicated on the finite (or at least, highly restricted) availability of that commodity.
+
+If Elon Musk manages to find and then tow back to Earth, an entire asteroid made of gold, all he will achieve is the massive depreciation in the current value of gold on Earth.
+
+Earth's inhabitants won't all suddenly become hugely wealthy, because they all get a share of that asteroid... The more gold there is available on Earth, the less it will be worth.
+
+By artificially constraining the supply of Bitcoin (and other Block-Chain currencies), its inventors ensure that it will always be able to serve purpose as a Store of Value.
+
+Bitcoin's usage as a Medium of Exchange and Unit of Account, is entirely predicated on and determined by the willingness of goods and services providers and consumers, to accept it as payment.
+
+And since in the Internet Age, people seem to have a bit more faith in each other, than they do in their governments, there seems no Earthly reason why a currency artificially created, but not controlled by any government, shouldn't replace equally artificial currencies that *ARE* controlled by various national governments.
+
+It is only a matter of Time.

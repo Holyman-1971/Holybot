@@ -1,0 +1,61 @@
+So next year (around October time), I'll have been working in a full-time, professional IT capacity for twenty years.
+
+When I got my first IT job in 1989, deploying and supporting PC systems, there just weren't any vocational qualifications available, outside of mainframe programming languages. Microsoft and Cisco were only about five or six years old, and Cisco wasn't yet a Public company.
+
+My work in 1989 consisted primarily of replacing typewriters and mainframe terminals with IBM PS/2 50's (286 processor), which in my first job were linked via direct cable connections over parallel ports. Operating Systems were MS-DOS 3.3 & then 5.0; and one of the "advanced" users at the quarry where I worked, used Windows 2.1 (/286).
+
+Couple of years later, and I was installing 1.0Mbps Thin-Ethernet networks, using repeaters, bridges and hubs; and a job-switch after that, saw me playing with 4Mbps & 16Mbps Token-Ring networks for an Insurance Underwriter.
+
+I went freelance/independent in 1994, and worked as an IT contractor for various banks in the City of London (some of which are even still in business - though not many...). [b]*PURELY*[/b] by dint of the Experience I had (I never bothered to get any qualifications), I kind of rode the tide of IT sophistication upwards.
+
+On each job or contract, I always tried to divide my time 75% doing what I was paid to do; and 25% learning how to do what I wanted to do next.
+
+So when I was working for the Insurance Underwriter, employed to do desktop support, I spent 3/4 of my time doing that, and the other 1/4 learning about Network Operating Systems. On my first contract, where I was employed as a Novell Netware Administrator, I spent 3/4 of my time administering Netware, and 1/4 of my time learning about Ethernet & Token-Ring network technology.
+
+In a pressured IT support environment, it is always easy to find a reason why you need to know about an adjacent IT technology. At the very least, when you passed a support call over to a different department because it wasn't something you could fix, it always paid to follow-up on that call's progress and its eventual resolution.
+
+There's nothing that IT professionals like more than explaining to admiring juniors, how skilled and proficient they are, and I just milked that for my own edification and advancement.
+
+Dividing my time 75%/25% like this meant that when I was comfortable and confident, I could move to a new contract, citing my 25% experience as justification for moving to a role where I would be required to use that experience and knowledge for 75% or more of the time.
+
+And so it went. I moved from Desktop Support roles, through Network OS, Network Support, Network Design, Network Security, Network Architect, and Management Information Systems Design. Finally I made the move to IT Management and ultimately to my present, Board-Level role as Business Systems Director.
+
+As far as I can tell, looking back and looking around me now, this kind of IT career progression is actually fairly standard. Dividing your time between the role you have been employed to do, and learning the role you wish to move to next. The trick in the early stages of your career, I think, is not to wed yourself to a specific company or corporation. It's a [b]*LOT*[/b] easier to make these sort of diagonal career moves if you go outside of whichever company you happen to be learning the ropes at.
+
+As far as getting your foot on the [b]*FIRST*[/b] rung of that IT career ladder, I think it is fairly obvious that the way to go is with Small-to-Medium Sized Enterprises (SME's).
+
+SME's often don't and can't afford the rates that the big, monolithic corporations pay; but on the other hand, there is usually less pressure, and much greater opportunity to diversify and improve the breadth of your discipline.
+
+An SME will often look for someone who is a general all-rounder, rather than someone who is a focused specialist. At the lowest end of the scale, there are small, start-up enterprises who have just passed the threshold where there is now too much IT-related activity to be carried out by Brian in Accounts, or Shelia in Sales. They will be looking for just one person who can handle all the day-to-day desktop stuff - ordering new equipment, changing printer cartridges etc.
+
+You start with a company like that, and monitor your learning curve. Knowing IT from an academic point of view is one thing; understanding how IT fits within a commercial operation is another thing altogether. And it is that commercial/operational Experience that new employers are looking for.
+
+So you bide your time with an SME or start-up, wait for your learning curve to start to plateau, then look for your next role. Your next role may be a technically superior role, with a company the same kind of size; or it might be the same level technically, but with a larger company.
+
+The real trick is to zig-zag along these dual paths.
+
+For example, you might end up doing fairly basic desktop support, but for a large financial or insurance corporation. Dividing your time there 75/25, you pick up a fair working knowledge of how to support Network Operating Systems. When you've developed that working understanding, you probably aren't experienced enough (or seen to be experienced enough) to get a job supporting Network OS's, for a large financial or insurance corporation. But you certainly [b]*WILL*[/b] be seen to be experienced enough to get a job supporting NOS for an SME.
+
+So you move up the technical expertise ladder, but down the corporation-size ladder.
+
+Until you've spent a couple of years honing your NOS skills at the SME, when you will then be experienced enough to apply for a NOS support job back at a larger enterprise.
+
+The key I think, is not to be in too much of a rush to get established in a Job for Life. Take your time developing your skills and experience, but don't get stuck in a rut in one particular role or company.
+
+Less than 12 months at a company or in a particular role, and you're not really going to be able to get under the skin of the way the technology is applied and used; and having too many <12 months roles on your CV can make you look a bit unreliable. But more than 2 years in a single role with the same company, and the grass will start growing under your feet, and you'll end up preferring comfort and job security to career and skills advancement.
+
+And finally...
+
+Remember that no matter what technology you specialise in, or what kind of company or corporation you work for, there is [b]*ALWAYS*[/b] one technology that you will find in [b]*EVERY*[/b] place you ever work.
+
+It's an old technology, which is long overdue an update, but no-one can agree on an upgrade path. It is a technology that can make getting the best out of all the other technological advances [b]*REALLY*[/b] frustrating, but it's a technology that you [b]*HAVE*[/b] to work with.
+
+Yet it is also a technology that if you really figure out how to master, then you will never have any problems getting employed anywhere, it whatever capacity you choose.
+
+And that technology is..:
+
+[b]Human v1.0[/b]
+
+You [b]*GOT*[/b] to Love HumanIT. :)
+
+[face_peace]
