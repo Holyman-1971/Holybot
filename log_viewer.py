@@ -1,8 +1,14 @@
 import os
 import json
 import pandas as pd
-from datetime import datetime
 import streamlit as st
+from dotenv import load_dotenv
+from supabase import create_client, Client
+
+# -----------------------------------------------------------------------------
+# 1. Page Configuration & Environment
+# -----------------------------------------------------------------------------
+load_dotenv()
 
 st.set_page_config(
     page_title="Holybot 2.0 | Log Inspector",
@@ -13,13 +19,34 @@ st.set_page_config(
 LOG_FILE = "./logs/chat_logs.jsonl"
 
 st.title("📜 Holybot 2.0 Log Inspector")
-st.caption("Local JSONL Session Parser & Analytics")
+st.caption("Live Supabase Cloud & Local JSONL Session Parser")
+
+supabase_url = os.getenv("SUPABASE_URL") or st.secrets.get("SUPABASE_URL", None)
+supabase_key = os.getenv("SUPABASE_KEY") or st.secrets.get("SUPABASE_KEY", None)
 
 # -----------------------------------------------------------------------------
-# 1. Data Loader
+# 2. Unified Data Loader (Supabase Cloud + Local Fallback)
 # -----------------------------------------------------------------------------
-@st.cache_data(ttl=5)  # Auto-refresh cache every 5 seconds
+@st.cache_data(ttl=5)  # Auto-refresh data every 5 seconds
 def load_logs():
+    # Attempt 1: Fetch from Supabase Cloud DB
+    if supabase_url and supabase_key:
+        try:
+            supabase: Client = create_client(supabase_url, supabase_key)
+            response = supabase.table("chat_logs").select("*").order("created_at", desc=True).execute()
+            data = response.data
+            if data:
+                df = pd.DataFrame(data)
+                if "created_at" in df.columns:
+                    df["formatted_time"] = pd.to_datetime(df["created_at"]).dt.strftime("%Y-%m-%d %H:%M:%S")
+                else:
+                    df["formatted_time"] = "Unknown"
+                df["source"] = "Supabase Cloud"
+                return df
+        except Exception as e:
+            st.sidebar.warning(f"⚠️ Supabase query failed, checking local logs: {e}")
+
+    # Attempt 2: Local JSONL Fallback
     if not os.path.exists(LOG_FILE):
         return pd.DataFrame()
     
@@ -39,27 +66,31 @@ def load_logs():
 
     df = pd.DataFrame(records)
     
-    # Format timestamps
     if "timestamp" in df.columns:
         df["timestamp_dt"] = pd.to_datetime(df["timestamp"], errors="coerce")
         df["formatted_time"] = df["timestamp_dt"].dt.strftime("%Y-%m-%d %H:%M:%S")
     else:
         df["formatted_time"] = "Unknown"
         
+    df["source"] = "Local File"
     return df
 
 df = load_logs()
 
 if df.empty:
-    st.warning(f"⚠️ No log entries found at `{LOG_FILE}`. Interact with `app.py` with logging enabled to generate entries.")
+    st.warning("⚠️ No log entries found in Supabase Cloud or locally at `./logs/chat_logs.jsonl`.")
+    st.info("Interact with `app.py` with logging enabled to generate initial log entries.")
     st.stop()
 
 # -----------------------------------------------------------------------------
-# 2. Sidebar Filters & Metrics
+# 3. Sidebar Metrics & Filters
 # -----------------------------------------------------------------------------
 st.sidebar.title("🔍 Log Filters")
 
-# Metric counters
+source_label = df["source"].iloc[0] if "source" in df.columns else "Unknown"
+st.sidebar.info(f"**Data Source:** `{source_label}`")
+
+# Metric Counters
 st.sidebar.metric("Total Logs", len(df))
 st.sidebar.metric("Unique Sessions", df["session_id"].nunique() if "session_id" in df.columns else 0)
 
@@ -67,11 +98,11 @@ st.sidebar.metric("Unique Sessions", df["session_id"].nunique() if "session_id" 
 session_options = ["All"] + list(df["session_id"].unique()) if "session_id" in df.columns else ["All"]
 selected_session = st.sidebar.selectbox("Filter by Session ID", session_options)
 
-# Filter by Mode
+# Filter by Response Mode
 mode_options = ["All"] + list(df["mode"].unique()) if "mode" in df.columns else ["All"]
 selected_mode = st.sidebar.selectbox("Filter by Mode", mode_options)
 
-# Keyword search
+# Keyword Search
 search_query = st.sidebar.text_input("Search Prompts or Responses", "").strip().lower()
 
 # Apply Filters
@@ -89,25 +120,26 @@ if search_query:
         filtered_df["bot_response"].str.lower().str.contains(search_query, na=False)
     ]
 
-# Sort newest first
-filtered_df = filtered_df.sort_index(ascending=False)
+# Ensure sorting (newest first)
+if "id" in filtered_df.columns:
+    filtered_df = filtered_df.sort_values(by="id", ascending=False)
+else:
+    filtered_df = filtered_df.sort_index(ascending=False)
 
 st.write(f"Showing **{len(filtered_df)}** of **{len(df)}** log entries")
 
 # -----------------------------------------------------------------------------
-# 3. Main GUI Log Feed
+# 4. Main Log Inspector Interface
 # -----------------------------------------------------------------------------
 st.markdown("---")
 
 for idx, row in filtered_df.iterrows():
-    # Sticky header info using expander title & columns
     time_str = row.get("formatted_time", "N/A")
     mode_str = row.get("mode", "Standard")
     session_str = row.get("session_id", "Unknown")
     prompt_snippet = row.get("user_prompt", "")
     
-    # Truncate title snippet if prompt is long
-    title_display = f"[{time_str}] | Mode: {mode_str} | Prompt: {prompt_snippet[:60]}..."
+    title_display = f"[{time_str}] | Mode: {mode_str} | Session: {session_str} | Prompt: {prompt_snippet[:50]}..."
     
     with st.expander(title_display, expanded=True):
         col1, col2, col3 = st.columns([2, 2, 3])
@@ -120,7 +152,6 @@ for idx, row in filtered_df.iterrows():
             
         st.markdown("---")
         
-        # Prominent display of user prompt and bot response
         st.markdown("**👤 User Prompt:**")
         st.info(row.get("user_prompt", ""))
         
@@ -128,7 +159,7 @@ for idx, row in filtered_df.iterrows():
         st.success(row.get("bot_response", ""))
 
 # -----------------------------------------------------------------------------
-# 4. Export Utility
+# 5. CSV Export Utility
 # -----------------------------------------------------------------------------
 st.sidebar.markdown("---")
 st.sidebar.download_button(
