@@ -1,6 +1,3 @@
-Here is the complete, production-ready **`app.py`** script incorporating all changes: dual local and cloud Supabase logging, dynamic Groq model resolution targeting `openai/gpt-oss-120b`, and full session management.
-
-```python
 import os
 import json
 import uuid
