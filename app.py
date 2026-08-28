@@ -258,5 +258,3 @@ if user_input := st.chat_input("Ask about WBM, systemic transition, or Holyman's
                 
             except Exception as e:
                 st.error(f"Error querying Groq LLM endpoint: {e}")
-
-```
